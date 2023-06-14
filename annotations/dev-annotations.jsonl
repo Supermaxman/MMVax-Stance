@@ -1,0 +1,646 @@
+{"id":"1423777630461980674","clip_candidates":{"F13":{"rank":1,"distance":0.4013615548610687,"type":"image"}},"labels":{"F13":"Reject"}}
+{"id":"1446090342852435972","clip_candidates":{"F89":{"rank":15,"distance":0.9483209848403931,"type":"text"}},"labels":{"F89":"No Stance"}}
+{"id":"1461348482095083523","clip_candidates":{"F54":{"rank":41,"distance":0.895594596862793,"type":"text"},"F56":{"rank":41,"distance":0.7462695837020874,"type":"text"},"F58":{"rank":44,"distance":0.8915432095527649,"type":"text"},"F60":{"rank":40,"distance":0.9022713303565979,"type":"text"},"F83":{"rank":47,"distance":0.924852728843689,"type":"text"}},"labels":{"F54":"Not Relevant","F56":"Not Relevant","F58":"Not Relevant","F60":"Not Relevant","F83":"Not Relevant"}}
+{"id":"1337594204554473473","clip_candidates":{"F50":{"rank":37,"distance":0.9153719544410706,"type":"text"}},"labels":{"F50":"Not Relevant"}}
+{"id":"1252250037263851520","clip_candidates":{"F40":{"rank":57,"distance":0.3548419773578644,"type":"image"}},"labels":{"F40":"Not Relevant"}}
+{"id":"1459126986194960387","clip_candidates":{"F82":{"rank":4,"distance":0.37145742774009705,"type":"image"}},"labels":{"F82":"No Stance"}}
+{"id":"1475626501005578243","clip_candidates":{"F23":{"rank":43,"distance":0.37096840143203735,"type":"image"},"F110":{"rank":29,"distance":0.36733680963516235,"type":"image"}},"labels":{"F23":"Not Relevant","F110":"Accept"}}
+{"id":"1293204017414381568","clip_candidates":{"F47":{"rank":46,"distance":0.3751201927661896,"type":"image"},"F48":{"rank":50,"distance":0.3734734356403351,"type":"image"}},"labels":{"F47":"No Stance","F48":"Not Relevant"}}
+{"id":"1287307047030095873","clip_candidates":{"F103":{"rank":46,"distance":0.897344172000885,"type":"text"}},"labels":{"F103":"Not Relevant"}}
+{"id":"1443543840678297601","clip_candidates":{"F84":{"rank":48,"distance":0.3765736222267151,"type":"image"}},"labels":{"F84":"Not Relevant"}}
+{"id":"1459290850115076097","clip_candidates":{"F5":{"rank":3,"distance":0.34876465797424316,"type":"image"}},"labels":{"F5":"Accept"}}
+{"id":"1445268256755834887","clip_candidates":{"F29":{"rank":38,"distance":0.3708091378211975,"type":"image"}},"labels":{"F29":"Accept"}}
+{"id":"1433073170966355970","clip_candidates":{"F46":{"rank":48,"distance":0.3389267921447754,"type":"image"}},"labels":{"F46":"Accept"}}
+{"id":"1338125195257794560","clip_candidates":{"F91":{"rank":20,"distance":0.3782564401626587,"type":"image"}},"labels":{"F91":"No Stance"}}
+{"id":"1471284443964919809","clip_candidates":{"F50":{"rank":30,"distance":0.9167522192001343,"type":"text"}},"labels":{"F50":"Not Relevant"}}
+{"id":"1450116112423825409","clip_candidates":{"F58":{"rank":34,"distance":0.3561071455478668,"type":"image"}},"labels":{"F58":"No Stance"}}
+{"id":"1256845709858476032","clip_candidates":{"F4":{"rank":4,"distance":0.9391342401504517,"type":"text"}},"labels":{"F4":"No Stance"}}
+{"id":"1433800668788051968","clip_candidates":{"F101":{"rank":52,"distance":0.36048221588134766,"type":"image"}},"labels":{"F101":"No Stance"}}
+{"id":"1427245497048260611","clip_candidates":{"F73":{"rank":32,"distance":0.3443259596824646,"type":"image"}},"labels":{"F73":"No Stance"}}
+{"id":"1413352710057910278","clip_candidates":{"F19":{"rank":26,"distance":0.38245412707328796,"type":"image"},"F22":{"rank":13,"distance":0.39706549048423767,"type":"image"},"F75":{"rank":30,"distance":0.38658058643341064,"type":"image"}},"labels":{"F19":"Accept","F22":"Reject","F75":"Reject"}}
+{"id":"1411037317578510343","clip_candidates":{"F31":{"rank":27,"distance":0.3724454939365387,"type":"image"},"F49":{"rank":44,"distance":0.38018906116485596,"type":"image"},"F69":{"rank":38,"distance":0.38014256954193115,"type":"image"}},"labels":{"F31":"No Stance","F49":"No Stance","F69":"Accept"}}
+{"id":"1299324915858857992","clip_candidates":{"F104":{"rank":38,"distance":0.3640843331813812,"type":"image"}},"labels":{"F104":"Accept"}}
+{"id":"1431045482860539909","clip_candidates":{"F8":{"rank":49,"distance":0.36235690116882324,"type":"image"}},"labels":{"F8":"Accept"}}
+{"id":"1455473642482065412","clip_candidates":{"F79":{"rank":18,"distance":0.3446841537952423,"type":"image"}},"labels":{"F79":"No Stance"}}
+{"id":"1423655486608470028","clip_candidates":{"F24":{"rank":24,"distance":0.9187600612640381,"type":"text"}},"labels":{"F24":"Not Relevant"}}
+{"id":"1424222876635340801","clip_candidates":{"F23":{"rank":53,"distance":0.3696836531162262,"type":"image"},"F70":{"rank":41,"distance":0.37439462542533875,"type":"image"}},"labels":{"F23":"Not Relevant","F70":"Not Relevant"}}
+{"id":"1463266206580883462","clip_candidates":{"F60":{"rank":16,"distance":0.9082821607589722,"type":"text"},"F64":{"rank":50,"distance":0.8999651670455933,"type":"text"}},"labels":{"F60":"No Stance","F64":"No Stance"}}
+{"id":"1463983379381112848","clip_candidates":{"F93":{"rank":39,"distance":0.37029796838760376,"type":"image"}},"labels":{"F93":"Not Relevant"}}
+{"id":"1458900978866929671","clip_candidates":{"F26":{"rank":13,"distance":0.3840908408164978,"type":"image"},"F34":{"rank":49,"distance":0.37777355313301086,"type":"image"},"F41":{"rank":36,"distance":0.3572046458721161,"type":"image"}},"labels":{"F26":"Reject","F34":"Accept","F41":"Accept"}}
+{"id":"1325187428420775937","clip_candidates":{"F40":{"rank":48,"distance":0.35576415061950684,"type":"image"}},"labels":{"F40":"No Stance"}}
+{"id":"1291056966819819521","clip_candidates":{"F102":{"rank":22,"distance":0.3708632290363312,"type":"image"}},"labels":{"F102":"No Stance"}}
+{"id":"1301210824434946051","clip_candidates":{"F3":{"rank":20,"distance":0.9307441115379333,"type":"text"}},"labels":{"F3":"No Stance"}}
+{"id":"1429078500888174595","clip_candidates":{"F46":{"rank":44,"distance":0.9131965041160583,"type":"text"}},"labels":{"F46":"No Stance"}}
+{"id":"1459875373861249027","clip_candidates":{"F90":{"rank":28,"distance":0.37294429540634155,"type":"image"}},"labels":{"F90":"Not Relevant"}}
+{"id":"1421235080291254272","clip_candidates":{"F18":{"rank":5,"distance":0.3472376763820648,"type":"image"}},"labels":{"F18":"No Stance"}}
+{"id":"1421373618597027842","clip_candidates":{"F27":{"rank":5,"distance":0.9345172047615051,"type":"text"},"F101":{"rank":25,"distance":0.940204918384552,"type":"text"},"F107":{"rank":20,"distance":0.9227485060691833,"type":"text"},"F111":{"rank":9,"distance":0.9464675188064575,"type":"text"}},"labels":{"F27":"Reject","F101":"Reject","F107":"Not Relevant","F111":"Reject"}}
+{"id":"1262236303153745921","clip_candidates":{"F110":{"rank":21,"distance":0.36964067816734314,"type":"image"}},"labels":{"F110":"No Stance"}}
+{"id":"1430769695460839424","clip_candidates":{"F110":{"rank":20,"distance":0.9354685544967651,"type":"text"},"F111":{"rank":47,"distance":0.9414699077606201,"type":"text"}},"labels":{"F110":"Not Relevant","F111":"No Stance"}}
+{"id":"1450034721891631107","clip_candidates":{"F89":{"rank":13,"distance":0.39393550157546997,"type":"image"}},"labels":{"F89":"Accept"}}
+{"id":"1471498161931702288","clip_candidates":{"F99":{"rank":36,"distance":0.36730337142944336,"type":"image"}},"labels":{"F99":"No Stance"}}
+{"id":"1249059456324784129","clip_candidates":{"F16":{"rank":38,"distance":0.3061002194881439,"type":"image"}},"labels":{"F16":"No Stance"}}
+{"id":"1335172006942298112","clip_candidates":{"F82":{"rank":20,"distance":0.3667178452014923,"type":"image"}},"labels":{"F82":"Not Relevant"}}
+{"id":"1438570968239071233","clip_candidates":{"F6":{"rank":21,"distance":0.37192100286483765,"type":"image"},"F101":{"rank":36,"distance":0.36325663328170776,"type":"image"}},"labels":{"F6":"Reject","F101":"Not Relevant"}}
+{"id":"1454157491659579396","clip_candidates":{"F109":{"rank":17,"distance":0.9426104426383972,"type":"text"}},"labels":{"F109":"Accept"}}
+{"id":"1440023501398847498","clip_candidates":{"F32":{"rank":48,"distance":0.8769845366477966,"type":"text"},"F33":{"rank":16,"distance":0.8928619027137756,"type":"text"}},"labels":{"F32":"Not Relevant","F33":"Not Relevant"}}
+{"id":"1299034939946668033","clip_candidates":{"F83":{"rank":30,"distance":0.9267767667770386,"type":"text"}},"labels":{"F83":"No Stance"}}
+{"id":"1458669993353117697","clip_candidates":{"F37":{"rank":49,"distance":0.362146258354187,"type":"image"}},"labels":{"F37":"Not Relevant"}}
+{"id":"1423337264797605894","clip_candidates":{"F88":{"rank":9,"distance":0.9188727736473083,"type":"text"}},"labels":{"F88":"Not Relevant"}}
+{"id":"1450578894403223554","clip_candidates":{"F15":{"rank":29,"distance":0.8818360567092896,"type":"text"}},"labels":{"F15":"Accept"}}
+{"id":"1443071271735074818","clip_candidates":{"F38":{"rank":25,"distance":0.3625398576259613,"type":"image"}},"labels":{"F38":"No Stance"}}
+{"id":"1414668423687245829","clip_candidates":{"F108":{"rank":2,"distance":0.3626008927822113,"type":"image"}},"labels":{"F108":"No Stance"}}
+{"id":"1418930422235422721","clip_candidates":{"F29":{"rank":32,"distance":0.3714534640312195,"type":"image"}},"labels":{"F29":"No Stance"}}
+{"id":"1463303858764095490","clip_candidates":{"F87":{"rank":4,"distance":0.38337576389312744,"type":"image"},"F93":{"rank":36,"distance":0.37118467688560486,"type":"image"}},"labels":{"F87":"Not Relevant","F93":"Not Relevant"}}
+{"id":"1445980269744476161","clip_candidates":{"F1":{"rank":22,"distance":0.8980295062065125,"type":"text"},"F8":{"rank":35,"distance":0.8669151663780212,"type":"text"},"F47":{"rank":45,"distance":0.9341042637825012,"type":"text"},"F48":{"rank":45,"distance":0.9379323124885559,"type":"text"},"F74":{"rank":20,"distance":0.9408858418464661,"type":"text"},"F87":{"rank":40,"distance":0.9324905872344971,"type":"text"},"F90":{"rank":49,"distance":0.9459445476531982,"type":"text"},"F91":{"rank":50,"distance":0.9339706301689148,"type":"text"},"F93":{"rank":11,"distance":0.9224680662155151,"type":"text"}},"labels":{"F1":"No Stance","F8":"Not Relevant","F47":"Not Relevant","F48":"Not Relevant","F74":"Not Relevant","F87":"Not Relevant","F90":"Not Relevant","F91":"Not Relevant","F93":"Accept"}}
+{"id":"1423056243501961232","clip_candidates":{"F18":{"rank":12,"distance":0.34336933493614197,"type":"image"},"F35":{"rank":17,"distance":0.3766440451145172,"type":"image"}},"labels":{"F18":"Accept","F35":"Reject"}}
+{"id":"1339243920014921735","clip_candidates":{"F34":{"rank":7,"distance":0.9263069033622742,"type":"text"},"F35":{"rank":15,"distance":0.8951746821403503,"type":"text"},"F41":{"rank":7,"distance":0.9273974299430847,"type":"text"}},"labels":{"F34":"No Stance","F35":"No Stance","F41":"No Stance"}}
+{"id":"1430281517155196940","clip_candidates":{"F15":{"rank":1,"distance":0.357749879360199,"type":"image"}},"labels":{"F15":"Not Relevant"}}
+{"id":"1471808121253154819","clip_candidates":{"F7":{"rank":51,"distance":0.36023229360580444,"type":"image"}},"labels":{"F7":"Not Relevant"}}
+{"id":"1418718242219114506","clip_candidates":{"F80":{"rank":20,"distance":0.37718576192855835,"type":"image"},"F103":{"rank":3,"distance":0.37579676508903503,"type":"image"}},"labels":{"F80":"No Stance","F103":"Not Relevant"}}
+{"id":"1331368798998421505","clip_candidates":{"F39":{"rank":37,"distance":0.3575139045715332,"type":"image"}},"labels":{"F39":"Accept"}}
+{"id":"1432673240770510867","clip_candidates":{"F20":{"rank":12,"distance":0.836411714553833,"type":"text"}},"labels":{"F20":"Not Relevant"}}
+{"id":"1430259587551318018","clip_candidates":{"F21":{"rank":26,"distance":0.9297453761100769,"type":"text"}},"labels":{"F21":"Not Relevant"}}
+{"id":"1304120961835380736","clip_candidates":{"F36":{"rank":55,"distance":0.3727114200592041,"type":"image"}},"labels":{"F36":"Accept"}}
+{"id":"1335861606635302912","clip_candidates":{"F50":{"rank":13,"distance":0.3638141453266144,"type":"image"},"F104":{"rank":12,"distance":0.36998459696769714,"type":"image"},"F105":{"rank":14,"distance":0.36507973074913025,"type":"image"},"F107":{"rank":35,"distance":0.36712875962257385,"type":"image"},"F110":{"rank":32,"distance":0.36674362421035767,"type":"image"}},"labels":{"F50":"Not Relevant","F104":"Accept","F105":"Accept","F107":"No Stance","F110":"Not Relevant"}}
+{"id":"1466376152373628929","clip_candidates":{"F13":{"rank":12,"distance":0.9119515419006348,"type":"text"}},"labels":{"F13":"No Stance"}}
+{"id":"1338574400946384898","clip_candidates":{"F80":{"rank":18,"distance":0.9266340136528015,"type":"text"},"F103":{"rank":59,"distance":0.8961602449417114,"type":"text"}},"labels":{"F80":"Not Relevant"}}
+{"id":"1337686921506664449","clip_candidates":{"F12":{"rank":6,"distance":0.8753097057342529,"type":"text"}},"labels":{"F12":"Accept"}}
+{"id":"1411746755176185863","clip_candidates":{"F64":{"rank":52,"distance":0.899080216884613,"type":"text"}},"labels":{"F64":"Reject"}}
+{"id":"1443918243471761431","clip_candidates":{"F79":{"rank":30,"distance":0.3422429859638214,"type":"image"}},"labels":{"F79":"Not Relevant"}}
+{"id":"1410840621359587331","clip_candidates":{"F10":{"rank":17,"distance":0.3697229027748108,"type":"image"},"F13":{"rank":18,"distance":0.3856085240840912,"type":"image"},"F107":{"rank":18,"distance":0.37096408009529114,"type":"image"}},"labels":{"F10":"No Stance","F13":"Not Relevant","F107":"Not Relevant"}}
+{"id":"1417001368590581761","clip_candidates":{"F49":{"rank":19,"distance":0.38672348856925964,"type":"image"}},"labels":{"F49":"Accept"}}
+{"id":"1415580094127611904","clip_candidates":{"F54":{"rank":40,"distance":0.895737886428833,"type":"text"}},"labels":{"F54":"No Stance"}}
+{"id":"1286299233428086784","clip_candidates":{"F6":{"rank":12,"distance":0.9117695093154907,"type":"text"},"F7":{"rank":27,"distance":0.9100799560546875,"type":"text"},"F13":{"rank":49,"distance":0.9081496000289917,"type":"text"},"F23":{"rank":9,"distance":0.9492987990379333,"type":"text"},"F28":{"rank":24,"distance":0.8863595724105835,"type":"text"},"F49":{"rank":50,"distance":0.933462381362915,"type":"text"},"F63":{"rank":44,"distance":0.9256012439727783,"type":"text"},"F67":{"rank":10,"distance":0.9277209639549255,"type":"text"},"F69":{"rank":2,"distance":0.9386821985244751,"type":"text"},"F70":{"rank":1,"distance":0.9632087349891663,"type":"text"},"F71":{"rank":1,"distance":0.9386875629425049,"type":"text"},"F74":{"rank":4,"distance":0.9444143176078796,"type":"text"},"F80":{"rank":33,"distance":0.9244405031204224,"type":"text"},"F81":{"rank":6,"distance":0.943289577960968,"type":"text"},"F82":{"rank":17,"distance":0.9018217325210571,"type":"text"},"F90":{"rank":39,"distance":0.9468851089477539,"type":"text"},"F91":{"rank":5,"distance":0.942299485206604,"type":"text"},"F94":{"rank":5,"distance":0.9360698461532593,"type":"text"},"F97":{"rank":50,"distance":0.9110292792320251,"type":"text"}},"labels":{"F6":"Not Relevant","F7":"Not Relevant","F13":"Reject","F23":"Reject","F28":"Not Relevant","F49":"Accept","F63":"No Stance","F67":"Not Relevant","F69":"No Stance","F70":"Reject","F71":"Not Relevant","F74":"Accept","F80":"Accept","F81":"Accept","F82":"No Stance","F90":"No Stance","F91":"Accept","F94":"No Stance","F97":"No Stance"}}
+{"id":"1459280964056584193","clip_candidates":{"F101":{"rank":27,"distance":0.36513495445251465,"type":"image"}},"labels":{"F101":"Not Relevant"}}
+{"id":"1466448348018270210","clip_candidates":{"F76":{"rank":41,"distance":0.3822154998779297,"type":"image"}},"labels":{"F76":"Reject"}}
+{"id":"1432499330850738179","clip_candidates":{"F30":{"rank":45,"distance":0.3441244065761566,"type":"image"}},"labels":{"F30":"Not Relevant"}}
+{"id":"1433707352578875397","clip_candidates":{"F62":{"rank":19,"distance":0.8948032855987549,"type":"text"}},"labels":{"F62":"Not Relevant"}}
+{"id":"1440779458575618048","clip_candidates":{"F104":{"rank":14,"distance":0.369600772857666,"type":"image"}},"labels":{"F104":"Accept"}}
+{"id":"1325895436461252608","clip_candidates":{"F2":{"rank":17,"distance":0.35492101311683655,"type":"image"},"F25":{"rank":25,"distance":0.3335190713405609,"type":"image"}},"labels":{"F2":"Accept","F25":"Accept"}}
+{"id":"1334803289939058690","clip_candidates":{"F53":{"rank":42,"distance":0.9301788210868835,"type":"text"}},"labels":{"F53":"Not Relevant"}}
+{"id":"1456279318896644101","clip_candidates":{"F65":{"rank":49,"distance":0.9077405333518982,"type":"text"}},"labels":{"F65":"No Stance"}}
+{"id":"1419611078980476930","clip_candidates":{"F42":{"rank":5,"distance":0.3868096172809601,"type":"image"}},"labels":{"F42":"No Stance"}}
+{"id":"1473725215972732928","clip_candidates":{"F16":{"rank":48,"distance":0.8865016102790833,"type":"text"},"F20":{"rank":23,"distance":0.8344883322715759,"type":"text"}},"labels":{"F16":"Not Relevant","F20":"Not Relevant"}}
+{"id":"1461439098091102225","clip_candidates":{"F65":{"rank":46,"distance":0.9079703688621521,"type":"text"}},"labels":{"F65":"Not Relevant"}}
+{"id":"1445843276532260869","clip_candidates":{"F9":{"rank":7,"distance":0.878733217716217,"type":"text"},"F22":{"rank":31,"distance":0.9370796084403992,"type":"text"},"F31":{"rank":31,"distance":0.9145196080207825,"type":"text"},"F45":{"rank":52,"distance":0.9219346046447754,"type":"text"},"F61":{"rank":20,"distance":0.9084245562553406,"type":"text"}},"labels":{"F9":"No Stance","F22":"No Stance","F31":"No Stance","F45":"No Stance","F61":"Accept"}}
+{"id":"1429995515345731589","clip_candidates":{"F81":{"rank":16,"distance":0.3815588653087616,"type":"image"}},"labels":{"F81":"Not Relevant"}}
+{"id":"1424918436879257603","clip_candidates":{"F94":{"rank":51,"distance":0.9275711178779602,"type":"text"}},"labels":{"F94":"Not Relevant"}}
+{"id":"1437918419811282944","clip_candidates":{"F74":{"rank":29,"distance":0.38460999727249146,"type":"image"}},"labels":{"F74":"Accept"}}
+{"id":"1302472876419887104","clip_candidates":{"F9":{"rank":31,"distance":0.8731477856636047,"type":"text"}},"labels":{"F9":"Not Relevant"}}
+{"id":"1334904466429136896","clip_candidates":{"F32":{"rank":9,"distance":0.8832278847694397,"type":"text"},"F33":{"rank":37,"distance":0.8877918720245361,"type":"text"}},"labels":{"F32":"No Stance","F33":"No Stance"}}
+{"id":"1298751068117929986","clip_candidates":{"F39":{"rank":47,"distance":0.9130313396453857,"type":"text"},"F55":{"rank":46,"distance":0.9086437225341797,"type":"text"},"F83":{"rank":39,"distance":0.926179051399231,"type":"text"}},"labels":{"F39":"Not Relevant","F55":"Accept","F83":"Not Relevant"}}
+{"id":"1298007171532234752","clip_candidates":{"F13":{"rank":23,"distance":0.3819287121295929,"type":"image"},"F50":{"rank":26,"distance":0.359121710062027,"type":"image"}},"labels":{"F13":"No Stance","F50":"No Stance"}}
+{"id":"1426244111078760460","clip_candidates":{"F95":{"rank":38,"distance":0.3772437572479248,"type":"image"}},"labels":{"F95":"No Stance"}}
+{"id":"1306785151385571331","clip_candidates":{"F71":{"rank":50,"distance":0.9239422678947449,"type":"text"}},"labels":{"F71":"Not Relevant"}}
+{"id":"1432922172557647877","clip_candidates":{"F70":{"rank":20,"distance":0.37739288806915283,"type":"image"},"F81":{"rank":52,"distance":0.3772030174732208,"type":"image"}},"labels":{"F70":"Not Relevant","F81":"No Stance"}}
+{"id":"1426720752804499460","clip_candidates":{"F3":{"rank":49,"distance":0.9216670989990234,"type":"text"},"F6":{"rank":9,"distance":0.9145799279212952,"type":"text"},"F7":{"rank":2,"distance":0.9188617467880249,"type":"text"},"F12":{"rank":17,"distance":0.8747044801712036,"type":"text"},"F14":{"rank":15,"distance":0.9447034597396851,"type":"text"},"F23":{"rank":18,"distance":0.945751428604126,"type":"text"},"F37":{"rank":42,"distance":0.9060448408126831,"type":"text"},"F38":{"rank":53,"distance":0.9197480082511902,"type":"text"},"F39":{"rank":48,"distance":0.9129448533058167,"type":"text"},"F48":{"rank":38,"distance":0.9389320015907288,"type":"text"},"F67":{"rank":37,"distance":0.9223572015762329,"type":"text"},"F69":{"rank":26,"distance":0.9325671792030334,"type":"text"},"F70":{"rank":7,"distance":0.9557439684867859,"type":"text"},"F71":{"rank":17,"distance":0.9283592104911804,"type":"text"},"F74":{"rank":8,"distance":0.9432069063186646,"type":"text"},"F78":{"rank":36,"distance":0.9333244562149048,"type":"text"},"F80":{"rank":10,"distance":0.928867518901825,"type":"text"},"F81":{"rank":20,"distance":0.9414592981338501,"type":"text"},"F82":{"rank":3,"distance":0.9055858254432678,"type":"text"},"F85":{"rank":45,"distance":0.915101170539856,"type":"text"},"F87":{"rank":12,"distance":0.9359799027442932,"type":"text"},"F90":{"rank":15,"distance":0.9497056603431702,"type":"text"},"F91":{"rank":44,"distance":0.9346440434455872,"type":"text"},"F93":{"rank":1,"distance":0.9281179308891296,"type":"text"},"F94":{"rank":13,"distance":0.9329735040664673,"type":"text"},"F97":{"rank":48,"distance":0.9111706614494324,"type":"text"}},"labels":{"F3":"No Stance","F6":"Not Relevant","F7":"Not Relevant","F12":"No Stance","F14":"Accept","F23":"Accept","F37":"Not Relevant","F38":"Not Relevant","F39":"Not Relevant","F48":"Accept","F67":"No Stance","F69":"Reject","F70":"Accept","F71":"Not Relevant","F74":"No Stance","F78":"Not Relevant","F80":"Not Relevant","F81":"Not Relevant","F82":"Reject","F85":"No Stance","F87":"Not Relevant","F90":"Not Relevant","F91":"Not Relevant","F93":"Not Relevant","F94":"Not Relevant","F97":"Not Relevant"}}
+{"id":"1332479349300342786","clip_candidates":{"F33":{"rank":29,"distance":0.36204153299331665,"type":"image"}},"labels":{"F33":"Not Relevant"}}
+{"id":"1438229761906679819","clip_candidates":{"F85":{"rank":15,"distance":0.38303670287132263,"type":"image"}},"labels":{"F85":"No Stance"}}
+{"id":"1430834740953640966","clip_candidates":{"F89":{"rank":42,"distance":0.3889455199241638,"type":"image"}},"labels":{"F89":"No Stance"}}
+{"id":"1424941270888185857","clip_candidates":{"F14":{"rank":13,"distance":0.3756762742996216,"type":"image"}},"labels":{"F14":"Accept"}}
+{"id":"1339302402277728256","clip_candidates":{"F13":{"rank":53,"distance":0.9079234600067139,"type":"text"}},"labels":{"F13":"Not Relevant"}}
+{"id":"1431747854461116417","clip_candidates":{"F28":{"rank":38,"distance":0.3384111523628235,"type":"image"}},"labels":{"F28":"Accept"}}
+{"id":"1438239420260491273","clip_candidates":{"F77":{"rank":46,"distance":0.37638339400291443,"type":"image"},"F89":{"rank":23,"distance":0.39173799753189087,"type":"image"}},"labels":{"F77":"No Stance","F89":"Not Relevant"}}
+{"id":"1450200403589488640","clip_candidates":{"F24":{"rank":18,"distance":0.38690730929374695,"type":"image"},"F67":{"rank":34,"distance":0.37418463826179504,"type":"image"},"F69":{"rank":16,"distance":0.38285794854164124,"type":"image"},"F70":{"rank":3,"distance":0.38509121537208557,"type":"image"},"F74":{"rank":7,"distance":0.390026330947876,"type":"image"},"F81":{"rank":15,"distance":0.3817107379436493,"type":"image"}},"labels":{"F24":"No Stance","F67":"Accept","F69":"No Stance","F70":"No Stance","F74":"No Stance","F81":"Accept"}}
+{"id":"1410885153241632771","clip_candidates":{"F17":{"rank":5,"distance":0.4011940062046051,"type":"image"},"F47":{"rank":50,"distance":0.3749088644981384,"type":"image"},"F94":{"rank":28,"distance":0.36263760924339294,"type":"image"}},"labels":{"F17":"Accept","F47":"Accept","F94":"Not Relevant"}}
+{"id":"1433067854304272395","clip_candidates":{"F7":{"rank":39,"distance":0.36125048995018005,"type":"image"}},"labels":{"F7":"Not Relevant"}}
+{"id":"1339374198565859332","clip_candidates":{"F18":{"rank":48,"distance":0.8822028040885925,"type":"text"},"F25":{"rank":15,"distance":0.8482672572135925,"type":"text"}},"labels":{"F18":"No Stance","F25":"No Stance"}}
+{"id":"1472624068566392837","clip_candidates":{"F22":{"rank":9,"distance":0.9425586462020874,"type":"text"}},"labels":{"F22":"Reject"}}
+{"id":"1470048852363329541","clip_candidates":{"F3":{"rank":51,"distance":0.3699704706668854,"type":"image"}},"labels":{"F3":"Reject"}}
+{"id":"1428403059118456845","clip_candidates":{"F73":{"rank":48,"distance":0.3421839475631714,"type":"image"}},"labels":{"F73":"Reject"}}
+{"id":"1330451546983849988","clip_candidates":{"F37":{"rank":4,"distance":0.3743196725845337,"type":"image"},"F40":{"rank":20,"distance":0.36176425218582153,"type":"image"}},"labels":{"F37":"Accept","F40":"Not Relevant"}}
+{"id":"1249697103468728321","clip_candidates":{"F9":{"rank":20,"distance":0.8752225637435913,"type":"text"}},"labels":{"F9":"Accept"}}
+{"id":"1468821653358465024","clip_candidates":{"F89":{"rank":3,"distance":0.4010729491710663,"type":"image"}},"labels":{"F89":"Not Relevant"}}
+{"id":"1337620233012604928","clip_candidates":{"F19":{"rank":48,"distance":0.37808480858802795,"type":"image"}},"labels":{"F19":"Reject"}}
+{"id":"1425952010847797248","clip_candidates":{"F109":{"rank":16,"distance":0.3521159589290619,"type":"image"}},"labels":{"F109":"No Stance"}}
+{"id":"1421101284883673088","clip_candidates":{"F45":{"rank":47,"distance":0.9220542907714844,"type":"text"}},"labels":{"F45":"Accept"}}
+{"id":"1458224289489080324","clip_candidates":{"F22":{"rank":35,"distance":0.3903734087944031,"type":"image"},"F30":{"rank":40,"distance":0.3452329635620117,"type":"image"},"F44":{"rank":44,"distance":0.37152788043022156,"type":"image"},"F48":{"rank":25,"distance":0.3762759566307068,"type":"image"},"F55":{"rank":10,"distance":0.3524016737937927,"type":"image"},"F81":{"rank":32,"distance":0.3784324526786804,"type":"image"}},"labels":{"F22":"Not Relevant","F30":"Not Relevant","F44":"Not Relevant","F48":"Not Relevant","F55":"Not Relevant","F81":"Not Relevant"}}
+{"id":"1433188881415892997","clip_candidates":{"F22":{"rank":26,"distance":0.9376125931739807,"type":"text"}},"labels":{"F22":"Accept"}}
+{"id":"1263182924649836545","clip_candidates":{"F15":{"rank":5,"distance":0.3542797267436981,"type":"image"}},"labels":{"F15":"Reject"}}
+{"id":"1452982280511803396","clip_candidates":{"F64":{"rank":48,"distance":0.3539629578590393,"type":"image"}},"labels":{"F64":"Reject"}}
+{"id":"1436094286425214988","clip_candidates":{"F32":{"rank":16,"distance":0.8815010786056519,"type":"text"},"F33":{"rank":36,"distance":0.8880690932273865,"type":"text"}},"labels":{"F32":"No Stance","F33":"No Stance"}}
+{"id":"1284656740244520960","clip_candidates":{"F103":{"rank":48,"distance":0.3534076511859894,"type":"image"}},"labels":{"F103":"No Stance"}}
+{"id":"1300528918605201415","clip_candidates":{"F110":{"rank":35,"distance":0.36639851331710815,"type":"image"}},"labels":{"F110":"Not Relevant"}}
+{"id":"1451811985553862657","clip_candidates":{"F76":{"rank":37,"distance":0.9330441951751709,"type":"text"},"F78":{"rank":8,"distance":0.9418904185295105,"type":"text"}},"labels":{"F76":"Accept","F78":"Accept"}}
+{"id":"1429844643991150592","clip_candidates":{"F11":{"rank":34,"distance":0.9241958856582642,"type":"text"}},"labels":{"F11":"Not Relevant"}}
+{"id":"1439238044750647304","clip_candidates":{"F18":{"rank":6,"distance":0.8891015648841858,"type":"text"}},"labels":{"F18":"Not Relevant"}}
+{"id":"1262594130313691136","clip_candidates":{"F108":{"rank":44,"distance":0.3469254672527313,"type":"image"}},"labels":{"F108":"Not Relevant"}}
+{"id":"1334879601986834438","clip_candidates":{"F36":{"rank":27,"distance":0.37517961859703064,"type":"image"},"F37":{"rank":44,"distance":0.36342740058898926,"type":"image"}},"labels":{"F36":"No Stance","F37":"Not Relevant"}}
+{"id":"1461219991777263617","clip_candidates":{"F108":{"rank":44,"distance":0.8943188190460205,"type":"text"}},"labels":{"F108":"Not Relevant"}}
+{"id":"1438229170883108882","clip_candidates":{"F79":{"rank":14,"distance":0.3457314670085907,"type":"image"}},"labels":{"F79":"Accept"}}
+{"id":"1471959729727586305","clip_candidates":{"F49":{"rank":41,"distance":0.38084566593170166,"type":"image"},"F95":{"rank":20,"distance":0.3815111219882965,"type":"image"}},"labels":{"F49":"Accept","F95":"Accept"}}
+{"id":"1443591975513456649","clip_candidates":{"F106":{"rank":24,"distance":0.3843971788883209,"type":"image"}},"labels":{"F106":"No Stance"}}
+{"id":"1441063394941947913","clip_candidates":{"F18":{"rank":43,"distance":0.8830962181091309,"type":"text"}},"labels":{"F18":"Reject"}}
+{"id":"1242574970330415104","clip_candidates":{"F51":{"rank":16,"distance":0.39235615730285645,"type":"image"}},"labels":{"F51":"Not Relevant"}}
+{"id":"1282744127302496256","clip_candidates":{"F39":{"rank":41,"distance":0.3571036159992218,"type":"image"}},"labels":{"F39":"No Stance"}}
+{"id":"1427402752209063937","clip_candidates":{"F69":{"rank":41,"distance":0.3797188103199005,"type":"image"},"F82":{"rank":53,"distance":0.36196815967559814,"type":"image"}},"labels":{"F69":"No Stance","F82":"No Stance"}}
+{"id":"1471711518525849600","clip_candidates":{"F102":{"rank":41,"distance":0.3684464991092682,"type":"image"}},"labels":{"F102":"No Stance"}}
+{"id":"1437458366176112642","clip_candidates":{"F59":{"rank":3,"distance":0.3519480526447296,"type":"image"}},"labels":{"F59":"Accept"}}
+{"id":"1335847270307262465","clip_candidates":{"F21":{"rank":28,"distance":0.38572272658348083,"type":"image"}},"labels":{"F21":"Not Relevant"}}
+{"id":"1435718040998465537","clip_candidates":{"F46":{"rank":42,"distance":0.9136542081832886,"type":"text"}},"labels":{"F46":"Not Relevant"}}
+{"id":"1330316422363410439","clip_candidates":{"F39":{"rank":29,"distance":0.9155485033988953,"type":"text"}},"labels":{"F39":"Accept"}}
+{"id":"1425426864944816130","clip_candidates":{"F73":{"rank":50,"distance":0.34208905696868896,"type":"image"}},"labels":{"F73":"Not Relevant"}}
+{"id":"1413512611161800711","clip_candidates":{"F7":{"rank":43,"distance":0.3611443340778351,"type":"image"},"F39":{"rank":26,"distance":0.359253853559494,"type":"image"},"F104":{"rank":28,"distance":0.3653787672519684,"type":"image"}},"labels":{"F7":"No Stance","F39":"Not Relevant","F104":"Not Relevant"}}
+{"id":"1456327763795791881","clip_candidates":{"F65":{"rank":47,"distance":0.9078783392906189,"type":"text"},"F75":{"rank":11,"distance":0.9253503680229187,"type":"text"},"F76":{"rank":17,"distance":0.9377001523971558,"type":"text"},"F77":{"rank":19,"distance":0.9296597242355347,"type":"text"},"F78":{"rank":7,"distance":0.9419766664505005,"type":"text"},"F79":{"rank":7,"distance":0.9071168303489685,"type":"text"},"F80":{"rank":5,"distance":0.9307048916816711,"type":"text"}},"labels":{"F65":"Reject","F75":"No Stance","F76":"Reject","F77":"Reject","F78":"Reject","F79":"No Stance","F80":"Accept"}}
+{"id":"1455605044871581699","clip_candidates":{"F90":{"rank":44,"distance":0.37078437209129333,"type":"image"},"F99":{"rank":20,"distance":0.37056753039360046,"type":"image"}},"labels":{"F90":"Not Relevant","F99":"Not Relevant"}}
+{"id":"1441499589568258049","clip_candidates":{"F12":{"rank":10,"distance":0.3855568766593933,"type":"image"}},"labels":{"F12":"Accept"}}
+{"id":"1312040119151529985","clip_candidates":{"F19":{"rank":23,"distance":0.3831341564655304,"type":"image"},"F82":{"rank":23,"distance":0.36613550782203674,"type":"image"},"F85":{"rank":3,"distance":0.3957150876522064,"type":"image"}},"labels":{"F19":"Not Relevant","F82":"Not Relevant","F85":"No Stance"}}
+{"id":"1421361778206773250","clip_candidates":{"F49":{"rank":47,"distance":0.933648943901062,"type":"text"}},"labels":{"F49":"No Stance"}}
+{"id":"1461667424852492290","clip_candidates":{"F25":{"rank":29,"distance":0.33281785249710083,"type":"image"}},"labels":{"F25":"Not Relevant"}}
+{"id":"1431660836557242373","clip_candidates":{"F100":{"rank":50,"distance":0.9216423630714417,"type":"text"},"F107":{"rank":35,"distance":0.9209820628166199,"type":"text"}},"labels":{"F100":"Reject","F107":"Accept"}}
+{"id":"1425611900386258945","clip_candidates":{"F28":{"rank":37,"distance":0.33866041898727417,"type":"image"},"F37":{"rank":41,"distance":0.36374932527542114,"type":"image"},"F38":{"rank":54,"distance":0.3581562936306,"type":"image"},"F55":{"rank":11,"distance":0.35141730308532715,"type":"image"}},"labels":{"F28":"Reject","F37":"No Stance","F38":"Reject","F55":"Not Relevant"}}
+{"id":"1439990409485328388","clip_candidates":{"F33":{"rank":19,"distance":0.8924521803855896,"type":"text"}},"labels":{"F33":"Reject"}}
+{"id":"1292265653144039425","clip_candidates":{"F11":{"rank":36,"distance":0.924117386341095,"type":"text"}},"labels":{"F11":"Accept"}}
+{"id":"1333316740718223360","clip_candidates":{"F13":{"rank":42,"distance":0.9088428616523743,"type":"text"}},"labels":{"F13":"Not Relevant"}}
+{"id":"1454144954822012930","clip_candidates":{"F40":{"rank":45,"distance":0.3559398651123047,"type":"image"}},"labels":{"F40":"Reject"}}
+{"id":"1462446208404889601","clip_candidates":{"F28":{"rank":15,"distance":0.3426882028579712,"type":"image"}},"labels":{"F28":"Not Relevant"}}
+{"id":"1410657348671115266","clip_candidates":{"F100":{"rank":39,"distance":0.3872144818305969,"type":"image"}},"labels":{"F100":"No Stance"}}
+{"id":"1435545764609024000","clip_candidates":{"F67":{"rank":20,"distance":0.9248817563056946,"type":"text"}},"labels":{"F67":"No Stance"}}
+{"id":"1452334341292449794","clip_candidates":{"F70":{"rank":49,"distance":0.37384605407714844,"type":"image"},"F94":{"rank":36,"distance":0.3617364764213562,"type":"image"}},"labels":{"F70":"Accept","F94":"Accept"}}
+{"id":"1250957126987419648","clip_candidates":{"F1":{"rank":52,"distance":0.8932598829269409,"type":"text"},"F37":{"rank":8,"distance":0.9108754396438599,"type":"text"}},"labels":{"F1":"Not Relevant","F37":"Not Relevant"}}
+{"id":"1429874935078526978","clip_candidates":{"F54":{"rank":16,"distance":0.3734671473503113,"type":"image"},"F56":{"rank":14,"distance":0.3114593029022217,"type":"image"},"F60":{"rank":22,"distance":0.3590680658817291,"type":"image"}},"labels":{"F54":"No Stance","F56":"Accept","F60":"Accept"}}
+{"id":"1321373745764683776","clip_candidates":{"F26":{"rank":41,"distance":0.3761824369430542,"type":"image"}},"labels":{"F26":"Not Relevant"}}
+{"id":"1323268753837215746","clip_candidates":{"F76":{"rank":29,"distance":0.9339251518249512,"type":"text"}},"labels":{"F76":"No Stance"}}
+{"id":"1460713031814504465","clip_candidates":{"F39":{"rank":17,"distance":0.9182711839675903,"type":"text"}},"labels":{"F39":"Not Relevant"}}
+{"id":"1458160617374855168","clip_candidates":{"F111":{"rank":27,"distance":0.3649410903453827,"type":"image"}},"labels":{"F111":"Reject"}}
+{"id":"1440199426090278917","clip_candidates":{"F80":{"rank":18,"distance":0.37737977504730225,"type":"image"}},"labels":{"F80":"Not Relevant"}}
+{"id":"1311888866819878912","clip_candidates":{"F17":{"rank":53,"distance":0.9228150844573975,"type":"text"}},"labels":{"F17":"Accept"}}
+{"id":"1440691102525259782","clip_candidates":{"F67":{"rank":49,"distance":0.3727417290210724,"type":"image"}},"labels":{"F67":"Not Relevant"}}
+{"id":"1447372545859080198","clip_candidates":{"F17":{"rank":45,"distance":0.39044901728630066,"type":"image"}},"labels":{"F17":"Not Relevant"}}
+{"id":"1323530261364047872","clip_candidates":{"F105":{"rank":26,"distance":0.3620169162750244,"type":"image"}},"labels":{"F105":"Not Relevant"}}
+{"id":"1433585361012285443","clip_candidates":{"F71":{"rank":24,"distance":0.3844870328903198,"type":"image"},"F75":{"rank":55,"distance":0.38242462277412415,"type":"image"},"F107":{"rank":1,"distance":0.37989136576652527,"type":"image"}},"labels":{"F71":"No Stance","F75":"Not Relevant","F107":"No Stance"}}
+{"id":"1457183915186266115","clip_candidates":{"F98":{"rank":25,"distance":0.3735831081867218,"type":"image"}},"labels":{"F98":"No Stance"}}
+{"id":"1430855024859656201","clip_candidates":{"F16":{"rank":10,"distance":0.3147716820240021,"type":"image"}},"labels":{"F16":"No Stance"}}
+{"id":"1418654988059004933","clip_candidates":{"F68":{"rank":34,"distance":0.9259583950042725,"type":"text"}},"labels":{"F68":"Not Relevant"}}
+{"id":"1338657225947090946","clip_candidates":{"F40":{"rank":37,"distance":0.35719218850135803,"type":"image"}},"labels":{"F40":"Reject"}}
+{"id":"1265650181728423936","clip_candidates":{"F87":{"rank":33,"distance":0.37025344371795654,"type":"image"}},"labels":{"F87":"Accept"}}
+{"id":"1240553497592029184","clip_candidates":{"F54":{"rank":3,"distance":0.38367530703544617,"type":"image"}},"labels":{"F54":"No Stance"}}
+{"id":"1334063905111359488","clip_candidates":{"F32":{"rank":48,"distance":0.365168958902359,"type":"image"}},"labels":{"F32":"Reject"}}
+{"id":"1423811898466836484","clip_candidates":{"F60":{"rank":7,"distance":0.36896827816963196,"type":"image"}},"labels":{"F60":"Not Relevant"}}
+{"id":"1456984868198486023","clip_candidates":{"F59":{"rank":26,"distance":0.8917378187179565,"type":"text"}},"labels":{"F59":"No Stance"}}
+{"id":"1333187046400159744","clip_candidates":{"F6":{"rank":14,"distance":0.9114031195640564,"type":"text"},"F63":{"rank":45,"distance":0.9254130721092224,"type":"text"}},"labels":{"F6":"Not Relevant","F63":"Accept"}}
+{"id":"1339176457789063168","clip_candidates":{"F17":{"rank":8,"distance":0.9349859952926636,"type":"text"},"F21":{"rank":27,"distance":0.9290929436683655,"type":"text"}},"labels":{"F17":"Not Relevant","F21":"No Stance"}}
+{"id":"1462695787855421442","clip_candidates":{"F94":{"rank":45,"distance":0.928281843662262,"type":"text"}},"labels":{"F94":"Accept"}}
+{"id":"1433866252741746728","clip_candidates":{"F18":{"rank":30,"distance":0.33736148476600647,"type":"image"},"F52":{"rank":21,"distance":0.3856341242790222,"type":"image"},"F54":{"rank":17,"distance":0.3734642267227173,"type":"image"},"F112":{"rank":49,"distance":0.34903520345687866,"type":"image"}},"labels":{"F18":"Accept","F52":"Accept","F54":"Reject","F112":"No Stance"}}
+{"id":"1447051141355737088","clip_candidates":{"F11":{"rank":22,"distance":0.36959725618362427,"type":"image"},"F13":{"rank":2,"distance":0.3993406295776367,"type":"image"},"F14":{"rank":7,"distance":0.3794509172439575,"type":"image"},"F48":{"rank":3,"distance":0.382915198802948,"type":"image"},"F70":{"rank":5,"distance":0.3829026222229004,"type":"image"},"F77":{"rank":1,"distance":0.4056960344314575,"type":"image"},"F83":{"rank":24,"distance":0.3690136671066284,"type":"image"},"F87":{"rank":1,"distance":0.38726961612701416,"type":"image"},"F90":{"rank":2,"distance":0.3855130672454834,"type":"image"},"F91":{"rank":3,"distance":0.3869437873363495,"type":"image"},"F99":{"rank":1,"distance":0.38312840461730957,"type":"image"},"F109":{"rank":46,"distance":0.3479371666908264,"type":"image"}},"labels":{"F11":"Accept","F13":"No Stance","F14":"Accept","F48":"Not Relevant","F70":"No Stance","F77":"Not Relevant","F83":"Not Relevant","F87":"Reject","F90":"Not Relevant","F91":"No Stance","F99":"No Stance","F109":"Not Relevant"}}
+{"id":"1427325239801913344","clip_candidates":{"F10":{"rank":41,"distance":0.3657216429710388,"type":"image"},"F72":{"rank":25,"distance":0.378406286239624,"type":"image"}},"labels":{"F10":"Not Relevant","F72":"Reject"}}
+{"id":"1430080257005035524","clip_candidates":{"F35":{"rank":37,"distance":0.37189915776252747,"type":"image"}},"labels":{"F35":"No Stance"}}
+{"id":"1451697422057439233","clip_candidates":{"F64":{"rank":18,"distance":0.3641476631164551,"type":"image"},"F66":{"rank":50,"distance":0.3466187119483948,"type":"image"}},"labels":{"F64":"No Stance","F66":"No Stance"}}
+{"id":"1444822408968478720","clip_candidates":{"F10":{"rank":2,"distance":0.38062065839767456,"type":"image"},"F11":{"rank":2,"distance":0.3793592154979706,"type":"image"},"F72":{"rank":14,"distance":0.38138461112976074,"type":"image"},"F76":{"rank":2,"distance":0.40007510781288147,"type":"image"},"F77":{"rank":11,"distance":0.38471999764442444,"type":"image"},"F78":{"rank":2,"distance":0.4029850661754608,"type":"image"},"F85":{"rank":9,"distance":0.38451120257377625,"type":"image"},"F86":{"rank":44,"distance":0.3818841874599457,"type":"image"},"F87":{"rank":15,"distance":0.37289270758628845,"type":"image"},"F111":{"rank":47,"distance":0.36297115683555603,"type":"image"}},"labels":{"F10":"Accept","F11":"Reject","F72":"Not Relevant","F76":"Reject","F77":"Reject","F78":"No Stance","F85":"Reject","F86":"Not Relevant","F87":"No Stance","F111":"No Stance"}}
+{"id":"1334924945445380097","clip_candidates":{"F101":{"rank":44,"distance":0.3623356521129608,"type":"image"}},"labels":{"F101":"No Stance"}}
+{"id":"1449816204688957442","clip_candidates":{"F99":{"rank":46,"distance":0.365396648645401,"type":"image"}},"labels":{"F99":"Accept"}}
+{"id":"1448673361962274820","clip_candidates":{"F65":{"rank":15,"distance":0.37419599294662476,"type":"image"}},"labels":{"F65":"Reject"}}
+{"id":"1443462927290228739","clip_candidates":{"F83":{"rank":38,"distance":0.3669595718383789,"type":"image"}},"labels":{"F83":"Not Relevant"}}
+{"id":"1420846029524676617","clip_candidates":{"F86":{"rank":45,"distance":0.9226974844932556,"type":"text"}},"labels":{"F86":"No Stance"}}
+{"id":"1437590259500470275","clip_candidates":{"F52":{"rank":48,"distance":0.3801363408565521,"type":"image"},"F75":{"rank":48,"distance":0.38388028740882874,"type":"image"}},"labels":{"F52":"No Stance","F75":"No Stance"}}
+{"id":"1436504170970894340","clip_candidates":{"F14":{"rank":1,"distance":0.3913556635379791,"type":"image"},"F98":{"rank":33,"distance":0.373110830783844,"type":"image"},"F101":{"rank":26,"distance":0.36518052220344543,"type":"image"}},"labels":{"F14":"Accept","F98":"Reject","F101":"Not Relevant"}}
+{"id":"1338952219350151170","clip_candidates":{"F19":{"rank":25,"distance":0.3829898238182068,"type":"image"}},"labels":{"F19":"No Stance"}}
+{"id":"1420139262775812101","clip_candidates":{"F49":{"rank":35,"distance":0.3820773661136627,"type":"image"},"F100":{"rank":27,"distance":0.38942813873291016,"type":"image"}},"labels":{"F49":"Accept","F100":"No Stance"}}
+{"id":"1469698118908362756","clip_candidates":{"F104":{"rank":12,"distance":0.9368553161621094,"type":"text"},"F105":{"rank":19,"distance":0.9387502670288086,"type":"text"},"F109":{"rank":47,"distance":0.939167320728302,"type":"text"}},"labels":{"F104":"Not Relevant","F105":"Accept","F109":"Not Relevant"}}
+{"id":"1413452964627304448","clip_candidates":{"F77":{"rank":53,"distance":0.9249758720397949,"type":"text"},"F78":{"rank":10,"distance":0.9408532977104187,"type":"text"},"F80":{"rank":21,"distance":0.9257383942604065,"type":"text"}},"labels":{"F77":"No Stance","F78":"No Stance","F80":"No Stance"}}
+{"id":"1429511738949455873","clip_candidates":{"F25":{"rank":32,"distance":0.8398252129554749,"type":"text"}},"labels":{"F25":"Reject"}}
+{"id":"1413437201694609414","clip_candidates":{"F69":{"rank":11,"distance":0.3838087022304535,"type":"image"}},"labels":{"F69":"No Stance"}}
+{"id":"1422089784370122754","clip_candidates":{"F61":{"rank":33,"distance":0.9057677984237671,"type":"text"},"F95":{"rank":26,"distance":0.9338399767875671,"type":"text"}},"labels":{"F61":"Not Relevant","F95":"No Stance"}}
+{"id":"1427053749365841924","clip_candidates":{"F7":{"rank":31,"distance":0.9097996950149536,"type":"text"},"F10":{"rank":6,"distance":0.9422343969345093,"type":"text"},"F80":{"rank":46,"distance":0.9225848317146301,"type":"text"},"F90":{"rank":36,"distance":0.94701087474823,"type":"text"},"F91":{"rank":36,"distance":0.9357602000236511,"type":"text"},"F94":{"rank":4,"distance":0.9366400837898254,"type":"text"}},"labels":{"F7":"Not Relevant","F10":"Reject","F80":"No Stance","F90":"Not Relevant","F91":"Not Relevant","F94":"No Stance"}}
+{"id":"1280267629165338624","clip_candidates":{"F44":{"rank":45,"distance":0.37142738699913025,"type":"image"}},"labels":{"F44":"Not Relevant"}}
+{"id":"1454214139916611585","clip_candidates":{"F1":{"rank":3,"distance":0.38545727729797363,"type":"image"}},"labels":{"F1":"Accept"}}
+{"id":"1452515307185184775","clip_candidates":{"F109":{"rank":50,"distance":0.9390601515769958,"type":"text"}},"labels":{"F109":"No Stance"}}
+{"id":"1441674858899939328","clip_candidates":{"F59":{"rank":23,"distance":0.8921678066253662,"type":"text"},"F64":{"rank":10,"distance":0.9154726266860962,"type":"text"},"F66":{"rank":3,"distance":0.9176777601242065,"type":"text"}},"labels":{"F59":"Reject","F64":"Accept","F66":"Accept"}}
+{"id":"1444487744621727752","clip_candidates":{"F103":{"rank":5,"distance":0.37409770488739014,"type":"image"}},"labels":{"F103":"No Stance"}}
+{"id":"1471194876549210121","clip_candidates":{"F69":{"rank":29,"distance":0.9322993159294128,"type":"text"}},"labels":{"F69":"Not Relevant"}}
+{"id":"1422654384924659717","clip_candidates":{"F50":{"rank":42,"distance":0.35637715458869934,"type":"image"},"F108":{"rank":42,"distance":0.34704136848449707,"type":"image"},"F110":{"rank":22,"distance":0.36910831928253174,"type":"image"}},"labels":{"F50":"Not Relevant","F108":"Accept","F110":"Not Relevant"}}
+{"id":"1460607869003440128","clip_candidates":{"F77":{"rank":7,"distance":0.3864191472530365,"type":"image"}},"labels":{"F77":"Not Relevant"}}
+{"id":"1319182159001706504","clip_candidates":{"F112":{"rank":24,"distance":0.351972758769989,"type":"image"}},"labels":{"F112":"Not Relevant"}}
+{"id":"1444069440824487941","clip_candidates":{"F66":{"rank":39,"distance":0.3503776788711548,"type":"image"}},"labels":{"F66":"Not Relevant"}}
+{"id":"1428465679242567685","clip_candidates":{"F26":{"rank":20,"distance":0.9149298667907715,"type":"text"}},"labels":{"F26":"Accept"}}
+{"id":"1461521848294723585","clip_candidates":{"F71":{"rank":29,"distance":0.38326171040534973,"type":"image"}},"labels":{"F71":"Not Relevant"}}
+{"id":"1422182452043321353","clip_candidates":{"F33":{"rank":4,"distance":0.3705131709575653,"type":"image"}},"labels":{"F33":"Accept"}}
+{"id":"1453437869364760580","clip_candidates":{"F76":{"rank":7,"distance":0.39288610219955444,"type":"image"},"F77":{"rank":16,"distance":0.3835223317146301,"type":"image"},"F80":{"rank":2,"distance":0.39152976870536804,"type":"image"},"F90":{"rank":17,"distance":0.3754461109638214,"type":"image"}},"labels":{"F76":"Accept","F77":"Not Relevant","F80":"Reject","F90":"Reject"}}
+{"id":"1474974431248367621","clip_candidates":{"F22":{"rank":39,"distance":0.390026718378067,"type":"image"}},"labels":{"F22":"No Stance"}}
+{"id":"1451655870778159105","clip_candidates":{"F85":{"rank":5,"distance":0.386369913816452,"type":"image"}},"labels":{"F85":"Accept"}}
+{"id":"1435713309899059201","clip_candidates":{"F19":{"rank":8,"distance":0.3876037001609802,"type":"image"},"F22":{"rank":2,"distance":0.403668075799942,"type":"image"},"F28":{"rank":30,"distance":0.34028032422065735,"type":"image"},"F30":{"rank":47,"distance":0.3436650037765503,"type":"image"},"F48":{"rank":33,"distance":0.3753257691860199,"type":"image"},"F52":{"rank":39,"distance":0.3812323808670044,"type":"image"}},"labels":{"F19":"Accept","F22":"Not Relevant","F28":"Not Relevant","F30":"Not Relevant","F48":"Reject","F52":"Accept"}}
+{"id":"1252979149037330432","clip_candidates":{"F112":{"rank":47,"distance":0.34919944405555725,"type":"image"}},"labels":{"F112":"Reject"}}
+{"id":"1430228762986270733","clip_candidates":{"F72":{"rank":46,"distance":0.3752225339412689,"type":"image"}},"labels":{"F72":"No Stance"}}
+{"id":"1418112950154448896","clip_candidates":{"F32":{"rank":15,"distance":0.37072521448135376,"type":"image"}},"labels":{"F32":"Not Relevant"}}
+{"id":"1336889890701594625","clip_candidates":{"F86":{"rank":52,"distance":0.9222747087478638,"type":"text"}},"labels":{"F86":"Not Relevant"}}
+{"id":"1459245280474320898","clip_candidates":{"F50":{"rank":28,"distance":0.917239248752594,"type":"text"}},"labels":{"F50":"No Stance"}}
+{"id":"1455562107009732616","clip_candidates":{"F86":{"rank":17,"distance":0.931307852268219,"type":"text"}},"labels":{"F86":"No Stance"}}
+{"id":"1428124636756299782","clip_candidates":{"F6":{"rank":22,"distance":0.3716525733470917,"type":"image"},"F10":{"rank":1,"distance":0.3831678032875061,"type":"image"},"F51":{"rank":32,"distance":0.38819214701652527,"type":"image"},"F67":{"rank":50,"distance":0.3727118968963623,"type":"image"},"F72":{"rank":2,"distance":0.38848885893821716,"type":"image"},"F74":{"rank":31,"distance":0.3844582140445709,"type":"image"},"F77":{"rank":5,"distance":0.39021214842796326,"type":"image"},"F98":{"rank":14,"distance":0.3780214190483093,"type":"image"},"F99":{"rank":3,"distance":0.38007432222366333,"type":"image"},"F100":{"rank":4,"distance":0.3993252217769623,"type":"image"}},"labels":{"F6":"No Stance","F10":"Not Relevant","F51":"Accept","F67":"No Stance","F72":"Not Relevant","F74":"Not Relevant","F77":"Not Relevant","F98":"Reject","F99":"Not Relevant","F100":"Reject"}}
+{"id":"1438756026375880706","clip_candidates":{"F113":{"rank":19,"distance":0.3799005448818207,"type":"image"}},"labels":{"F113":"Accept"}}
+{"id":"1432903874591944708","clip_candidates":{"F56":{"rank":6,"distance":0.3151816129684448,"type":"image"}},"labels":{"F56":"No Stance"}}
+{"id":"1467961020345839617","clip_candidates":{"F75":{"rank":5,"distance":0.9308816194534302,"type":"text"}},"labels":{"F75":"No Stance"}}
+{"id":"1471133784544325635","clip_candidates":{"F18":{"rank":33,"distance":0.337180495262146,"type":"image"}},"labels":{"F18":"Accept"}}
+{"id":"1454162410680553480","clip_candidates":{"F75":{"rank":17,"distance":0.39017218351364136,"type":"image"}},"labels":{"F75":"Not Relevant"}}
+{"id":"1467944326109954050","clip_candidates":{"F86":{"rank":4,"distance":0.9373499751091003,"type":"text"}},"labels":{"F86":"Reject"}}
+{"id":"1249790150877601792","clip_candidates":{"F8":{"rank":37,"distance":0.8657666444778442,"type":"text"},"F23":{"rank":25,"distance":0.9441681504249573,"type":"text"},"F55":{"rank":10,"distance":0.9145398139953613,"type":"text"},"F74":{"rank":35,"distance":0.9383238554000854,"type":"text"},"F87":{"rank":34,"distance":0.9328272938728333,"type":"text"},"F91":{"rank":45,"distance":0.9345464110374451,"type":"text"},"F112":{"rank":28,"distance":0.9161152243614197,"type":"text"},"F113":{"rank":26,"distance":0.8979052901268005,"type":"text"}},"labels":{"F8":"No Stance","F23":"No Stance","F55":"No Stance","F74":"No Stance","F87":"No Stance","F91":"No Stance","F112":"No Stance","F113":"Not Relevant"}}
+{"id":"1296160219181899776","clip_candidates":{"F11":{"rank":29,"distance":0.9257044792175293,"type":"text"},"F110":{"rank":5,"distance":0.939795970916748,"type":"text"}},"labels":{"F11":"No Stance","F110":"No Stance"}}
+{"id":"1411662151010373634","clip_candidates":{"F54":{"rank":53,"distance":0.8934907913208008,"type":"text"},"F63":{"rank":42,"distance":0.9257036447525024,"type":"text"},"F67":{"rank":24,"distance":0.9245189428329468,"type":"text"}},"labels":{"F54":"Not Relevant","F63":"No Stance","F67":"Not Relevant"}}
+{"id":"1438878850948026370","clip_candidates":{"F66":{"rank":18,"distance":0.35652559995651245,"type":"image"}},"labels":{"F66":"No Stance"}}
+{"id":"1424938587527819283","clip_candidates":{"F5":{"rank":5,"distance":0.3471980094909668,"type":"image"}},"labels":{"F5":"Reject"}}
+{"id":"1425748466131632137","clip_candidates":{"F98":{"rank":55,"distance":0.9154497981071472,"type":"text"}},"labels":{"F98":"No Stance"}}
+{"id":"1299678433765740546","clip_candidates":{"F55":{"rank":13,"distance":0.35087302327156067,"type":"image"}},"labels":{"F55":"Not Relevant"}}
+{"id":"1471951360287383557","clip_candidates":{"F49":{"rank":17,"distance":0.9368966817855835,"type":"text"},"F67":{"rank":39,"distance":0.9220019578933716,"type":"text"}},"labels":{"F49":"No Stance","F67":"Not Relevant"}}
+{"id":"1243532211376156672","clip_candidates":{"F21":{"rank":46,"distance":0.9275481104850769,"type":"text"}},"labels":{"F21":"Accept"}}
+{"id":"1248414714180145153","clip_candidates":{"F4":{"rank":14,"distance":0.9251819252967834,"type":"text"}},"labels":{"F4":"Accept"}}
+{"id":"1430813951030222855","clip_candidates":{"F59":{"rank":29,"distance":0.8913558721542358,"type":"text"}},"labels":{"F59":"Reject"}}
+{"id":"1431731837634809862","clip_candidates":{"F42":{"rank":26,"distance":0.9036668539047241,"type":"text"}},"labels":{"F42":"No Stance"}}
+{"id":"1334952641928044549","clip_candidates":{"F84":{"rank":36,"distance":0.9156023263931274,"type":"text"},"F85":{"rank":21,"distance":0.9187358021736145,"type":"text"}},"labels":{"F84":"No Stance","F85":"Not Relevant"}}
+{"id":"1440892117161680896","clip_candidates":{"F83":{"rank":42,"distance":0.9260070323944092,"type":"text"}},"labels":{"F83":"Reject"}}
+{"id":"1441063383617323015","clip_candidates":{"F45":{"rank":28,"distance":0.390462189912796,"type":"image"}},"labels":{"F45":"No Stance"}}
+{"id":"1430119679142547456","clip_candidates":{"F57":{"rank":22,"distance":0.32558050751686096,"type":"image"}},"labels":{"F57":"Not Relevant"}}
+{"id":"1440079523135975426","clip_candidates":{"F61":{"rank":34,"distance":0.9055497646331787,"type":"text"}},"labels":{"F61":"No Stance"}}
+{"id":"1434810874229714945","clip_candidates":{"F75":{"rank":15,"distance":0.9230266213417053,"type":"text"}},"labels":{"F75":"No Stance"}}
+{"id":"1467993483977785345","clip_candidates":{"F2":{"rank":52,"distance":0.8779754638671875,"type":"text"}},"labels":{"F2":"Not Relevant"}}
+{"id":"1326912393016905728","clip_candidates":{"F4":{"rank":31,"distance":0.9146695137023926,"type":"text"}},"labels":{"F4":"No Stance"}}
+{"id":"1257346613556711424","clip_candidates":{"F113":{"rank":20,"distance":0.8997213840484619,"type":"text"}},"labels":{"F113":"Not Relevant"}}
+{"id":"1328312421652500480","clip_candidates":{"F113":{"rank":24,"distance":0.8981895446777344,"type":"text"}},"labels":{"F113":"Not Relevant"}}
+{"id":"1468971756685725705","clip_candidates":{"F46":{"rank":37,"distance":0.33996453881263733,"type":"image"}},"labels":{"F46":"Not Relevant"}}
+{"id":"1423447567849836545","clip_candidates":{"F63":{"rank":33,"distance":0.36359652876853943,"type":"image"}},"labels":{"F63":"Not Relevant"}}
+{"id":"1437846128343625738","clip_candidates":{"F41":{"rank":29,"distance":0.9125893712043762,"type":"text"},"F43":{"rank":41,"distance":0.8862951397895813,"type":"text"}},"labels":{"F41":"Not Relevant","F43":"Not Relevant"}}
+{"id":"1433492939561308184","clip_candidates":{"F31":{"rank":46,"distance":0.9126177430152893,"type":"text"},"F85":{"rank":24,"distance":0.9182742834091187,"type":"text"}},"labels":{"F31":"Not Relevant","F85":"No Stance"}}
+{"id":"1339403961166512128","clip_candidates":{"F47":{"rank":5,"distance":0.9436784386634827,"type":"text"}},"labels":{"F47":"Accept"}}
+{"id":"1463223612127813643","clip_candidates":{"F109":{"rank":53,"distance":0.9389259815216064,"type":"text"}},"labels":{"F109":"Accept"}}
+{"id":"1338946952294182913","clip_candidates":{"F45":{"rank":13,"distance":0.39289116859436035,"type":"image"}},"labels":{"F45":"Accept"}}
+{"id":"1431368451449315329","clip_candidates":{"F72":{"rank":23,"distance":0.3788512945175171,"type":"image"}},"labels":{"F72":"No Stance"}}
+{"id":"1427387146369830955","clip_candidates":{"F53":{"rank":7,"distance":0.9363151788711548,"type":"text"}},"labels":{"F53":"Accept"}}
+{"id":"1432953516792889344","clip_candidates":{"F27":{"rank":55,"distance":0.9258002638816833,"type":"text"}},"labels":{"F27":"Not Relevant"}}
+{"id":"1325632186331000832","clip_candidates":{"F57":{"rank":24,"distance":0.3250991702079773,"type":"image"}},"labels":{"F57":"No Stance"}}
+{"id":"1436837606281646085","clip_candidates":{"F83":{"rank":8,"distance":0.37326937913894653,"type":"image"}},"labels":{"F83":"Not Relevant"}}
+{"id":"1445792442511511552","clip_candidates":{"F88":{"rank":32,"distance":0.9114142060279846,"type":"text"}},"labels":{"F88":"No Stance"}}
+{"id":"1432732316636311552","clip_candidates":{"F22":{"rank":17,"distance":0.9393700957298279,"type":"text"}},"labels":{"F22":"Not Relevant"}}
+{"id":"1419977860685733921","clip_candidates":{"F95":{"rank":37,"distance":0.9328640699386597,"type":"text"}},"labels":{"F95":"No Stance"}}
+{"id":"1459623985914597378","clip_candidates":{"F9":{"rank":54,"distance":0.8701906800270081,"type":"text"}},"labels":{"F9":"Accept"}}
+{"id":"1423864001872732160","clip_candidates":{"F45":{"rank":8,"distance":0.9298292994499207,"type":"text"},"F51":{"rank":31,"distance":0.9184651970863342,"type":"text"}},"labels":{"F45":"Accept","F51":"Accept"}}
+{"id":"1425426580948488194","clip_candidates":{"F95":{"rank":2,"distance":0.39284634590148926,"type":"image"}},"labels":{"F95":"Not Relevant"}}
+{"id":"1431697617176743937","clip_candidates":{"F58":{"rank":16,"distance":0.36431512236595154,"type":"image"}},"labels":{"F58":"No Stance"}}
+{"id":"1446012556951408642","clip_candidates":{"F102":{"rank":38,"distance":0.3688699007034302,"type":"image"}},"labels":{"F102":"Not Relevant"}}
+{"id":"1426290692805038087","clip_candidates":{"F111":{"rank":51,"distance":0.36187082529067993,"type":"image"}},"labels":{"F111":"No Stance"}}
+{"id":"1437952001975848960","clip_candidates":{"F92":{"rank":20,"distance":0.8924657702445984,"type":"text"}},"labels":{"F92":"Not Relevant"}}
+{"id":"1440398998045487104","clip_candidates":{"F42":{"rank":42,"distance":0.9010756611824036,"type":"text"}},"labels":{"F42":"Accept"}}
+{"id":"1476745020791304196","clip_candidates":{"F97":{"rank":20,"distance":0.38014647364616394,"type":"image"}},"labels":{"F97":"No Stance"}}
+{"id":"1433674587250864171","clip_candidates":{"F111":{"rank":52,"distance":0.9412457346916199,"type":"text"}},"labels":{"F111":"No Stance"}}
+{"id":"1450597731370557442","clip_candidates":{"F10":{"rank":13,"distance":0.3711996376514435,"type":"image"}},"labels":{"F10":"Accept"}}
+{"id":"1255994089817796608","clip_candidates":{"F87":{"rank":14,"distance":0.3729875981807709,"type":"image"}},"labels":{"F87":"Not Relevant"}}
+{"id":"1443036645633060869","clip_candidates":{"F57":{"rank":14,"distance":0.3288787305355072,"type":"image"}},"labels":{"F57":"Accept"}}
+{"id":"1328423769409458177","clip_candidates":{"F87":{"rank":8,"distance":0.3802001476287842,"type":"image"}},"labels":{"F87":"No Stance"}}
+{"id":"1473692763489243142","clip_candidates":{"F27":{"rank":43,"distance":0.359981507062912,"type":"image"}},"labels":{"F27":"Not Relevant"}}
+{"id":"1422340102664118275","clip_candidates":{"F96":{"rank":26,"distance":0.3572838306427002,"type":"image"}},"labels":{"F96":"Not Relevant"}}
+{"id":"1466089821986869258","clip_candidates":{"F78":{"rank":30,"distance":0.3851616680622101,"type":"image"}},"labels":{"F78":"No Stance"}}
+{"id":"1327909790362853377","clip_candidates":{"F108":{"rank":43,"distance":0.34697189927101135,"type":"image"}},"labels":{"F108":"No Stance"}}
+{"id":"1423286491376066564","clip_candidates":{"F45":{"rank":33,"distance":0.9238405227661133,"type":"text"},"F51":{"rank":33,"distance":0.9177572131156921,"type":"text"},"F100":{"rank":45,"distance":0.9226035475730896,"type":"text"}},"labels":{"F45":"Accept","F51":"Accept","F100":"Not Relevant"}}
+{"id":"1430575758871760905","clip_candidates":{"F5":{"rank":12,"distance":0.9346232414245605,"type":"text"}},"labels":{"F5":"Not Relevant"}}
+{"id":"1242802040851570688","clip_candidates":{"F98":{"rank":29,"distance":0.9187217354774475,"type":"text"}},"labels":{"F98":"Not Relevant"}}
+{"id":"1327622541201059841","clip_candidates":{"F2":{"rank":14,"distance":0.3557506501674652,"type":"image"}},"labels":{"F2":"Accept"}}
+{"id":"1458157451581087747","clip_candidates":{"F38":{"rank":20,"distance":0.3631874918937683,"type":"image"},"F96":{"rank":19,"distance":0.3585716784000397,"type":"image"}},"labels":{"F38":"Not Relevant","F96":"No Stance"}}
+{"id":"1337127642278072321","clip_candidates":{"F6":{"rank":20,"distance":0.9101651310920715,"type":"text"}},"labels":{"F6":"No Stance"}}
+{"id":"1419899565856018437","clip_candidates":{"F53":{"rank":5,"distance":0.3951570391654968,"type":"image"}},"labels":{"F53":"Accept"}}
+{"id":"1432716922781683715","clip_candidates":{"F67":{"rank":46,"distance":0.37287044525146484,"type":"image"}},"labels":{"F67":"No Stance"}}
+{"id":"1466119317385138180","clip_candidates":{"F3":{"rank":9,"distance":0.3807751536369324,"type":"image"}},"labels":{"F3":"No Stance"}}
+{"id":"1250737173818675202","clip_candidates":{"F68":{"rank":27,"distance":0.9267017841339111,"type":"text"}},"labels":{"F68":"Accept"}}
+{"id":"1464330698819612672","clip_candidates":{"F74":{"rank":30,"distance":0.38449424505233765,"type":"image"}},"labels":{"F74":"No Stance"}}
+{"id":"1450829950773305345","clip_candidates":{"F61":{"rank":36,"distance":0.3777242600917816,"type":"image"}},"labels":{"F61":"Not Relevant"}}
+{"id":"1429557626577330178","clip_candidates":{"F18":{"rank":1,"distance":0.8976337313652039,"type":"text"},"F34":{"rank":38,"distance":0.9065225124359131,"type":"text"}},"labels":{"F18":"No Stance","F34":"Reject"}}
+{"id":"1476552025529847810","clip_candidates":{"F2":{"rank":35,"distance":0.8817022442817688,"type":"text"},"F83":{"rank":8,"distance":0.9314645528793335,"type":"text"}},"labels":{"F2":"No Stance","F83":"Not Relevant"}}
+{"id":"1338980024343539716","clip_candidates":{"F93":{"rank":41,"distance":0.3700193464756012,"type":"image"}},"labels":{"F93":"No Stance"}}
+{"id":"1325587149782196224","clip_candidates":{"F70":{"rank":32,"distance":0.3754231333732605,"type":"image"},"F71":{"rank":36,"distance":0.38147667050361633,"type":"image"},"F85":{"rank":7,"distance":0.3850206732749939,"type":"image"},"F87":{"rank":20,"distance":0.3720473647117615,"type":"image"},"F88":{"rank":19,"distance":0.3707926571369171,"type":"image"},"F91":{"rank":15,"distance":0.3803177773952484,"type":"image"},"F99":{"rank":16,"distance":0.37143900990486145,"type":"image"}},"labels":{"F70":"Accept","F71":"Not Relevant","F85":"Not Relevant","F87":"Not Relevant","F88":"Not Relevant","F91":"Not Relevant","F99":"No Stance"}}
+{"id":"1327156231778217984","clip_candidates":{"F100":{"rank":22,"distance":0.390295147895813,"type":"image"}},"labels":{"F100":"Not Relevant"}}
+{"id":"1440302198039056384","clip_candidates":{"F17":{"rank":21,"distance":0.39412668347358704,"type":"image"}},"labels":{"F17":"No Stance"}}
+{"id":"1421907535230119941","clip_candidates":{"F3":{"rank":10,"distance":0.9345152974128723,"type":"text"}},"labels":{"F3":"Reject"}}
+{"id":"1457467964555505668","clip_candidates":{"F31":{"rank":14,"distance":0.918043315410614,"type":"text"},"F78":{"rank":50,"distance":0.9314839243888855,"type":"text"},"F84":{"rank":45,"distance":0.9146173000335693,"type":"text"}},"labels":{"F31":"Reject","F78":"Not Relevant","F84":"Not Relevant"}}
+{"id":"1420491743238279181","clip_candidates":{"F44":{"rank":46,"distance":0.3712414801120758,"type":"image"}},"labels":{"F44":"Accept"}}
+{"id":"1471885846987030531","clip_candidates":{"F9":{"rank":41,"distance":0.36902090907096863,"type":"image"}},"labels":{"F9":"No Stance"}}
+{"id":"1245718249783713793","clip_candidates":{"F62":{"rank":35,"distance":0.8889440894126892,"type":"text"}},"labels":{"F62":"Accept"}}
+{"id":"1420552677403078660","clip_candidates":{"F28":{"rank":13,"distance":0.8894676566123962,"type":"text"},"F83":{"rank":28,"distance":0.9269441366195679,"type":"text"}},"labels":{"F28":"No Stance","F83":"No Stance"}}
+{"id":"1446276532553539587","clip_candidates":{"F84":{"rank":12,"distance":0.3837721645832062,"type":"image"},"F88":{"rank":31,"distance":0.36686277389526367,"type":"image"}},"labels":{"F84":"Accept","F88":"Not Relevant"}}
+{"id":"1424687107768037379","clip_candidates":{"F106":{"rank":47,"distance":0.3806219696998596,"type":"image"}},"labels":{"F106":"No Stance"}}
+{"id":"1417377673983242245","clip_candidates":{"F34":{"rank":43,"distance":0.3786174952983856,"type":"image"}},"labels":{"F34":"Not Relevant"}}
+{"id":"1472266827933880331","clip_candidates":{"F98":{"rank":47,"distance":0.9160583019256592,"type":"text"}},"labels":{"F98":"Accept"}}
+{"id":"1336966020515262464","clip_candidates":{"F33":{"rank":15,"distance":0.893360435962677,"type":"text"}},"labels":{"F33":"No Stance"}}
+{"id":"1442886605266722817","clip_candidates":{"F96":{"rank":24,"distance":0.3578221797943115,"type":"image"},"F98":{"rank":40,"distance":0.3719961941242218,"type":"image"}},"labels":{"F96":"Accept","F98":"No Stance"}}
+{"id":"1457631945303760899","clip_candidates":{"F102":{"rank":23,"distance":0.3706403970718384,"type":"image"}},"labels":{"F102":"Reject"}}
+{"id":"1458370983266557961","clip_candidates":{"F5":{"rank":7,"distance":0.3466317653656006,"type":"image"}},"labels":{"F5":"No Stance"}}
+{"id":"1424369972487278592","clip_candidates":{"F36":{"rank":44,"distance":0.37344807386398315,"type":"image"},"F52":{"rank":23,"distance":0.3854450285434723,"type":"image"}},"labels":{"F36":"Not Relevant","F52":"No Stance"}}
+{"id":"1328261742204489728","clip_candidates":{"F71":{"rank":19,"distance":0.3860500156879425,"type":"image"}},"labels":{"F71":"No Stance"}}
+{"id":"1412743278806634496","clip_candidates":{"F112":{"rank":41,"distance":0.34971562027931213,"type":"image"}},"labels":{"F112":"Accept"}}
+{"id":"1421455627705069572","clip_candidates":{"F82":{"rank":29,"distance":0.9002028107643127,"type":"text"},"F84":{"rank":38,"distance":0.9152982234954834,"type":"text"},"F85":{"rank":11,"distance":0.920517086982727,"type":"text"}},"labels":{"F82":"No Stance","F84":"No Stance","F85":"Not Relevant"}}
+{"id":"1415669453287616514","clip_candidates":{"F31":{"rank":17,"distance":0.9171279668807983,"type":"text"}},"labels":{"F31":"Not Relevant"}}
+{"id":"1450213440652554242","clip_candidates":{"F20":{"rank":51,"distance":0.30985328555107117,"type":"image"}},"labels":{"F20":"No Stance"}}
+{"id":"1439960668455772166","clip_candidates":{"F33":{"rank":14,"distance":0.893785834312439,"type":"text"}},"labels":{"F33":"Not Relevant"}}
+{"id":"1415039602931511296","clip_candidates":{"F51":{"rank":12,"distance":0.39428380131721497,"type":"image"}},"labels":{"F51":"No Stance"}}
+{"id":"1417295707707428867","clip_candidates":{"F35":{"rank":41,"distance":0.3707237243652344,"type":"image"}},"labels":{"F35":"Reject"}}
+{"id":"1336698367926104064","clip_candidates":{"F113":{"rank":35,"distance":0.3758399784564972,"type":"image"}},"labels":{"F113":"No Stance"}}
+{"id":"1450082447312490496","clip_candidates":{"F8":{"rank":50,"distance":0.8643547892570496,"type":"text"}},"labels":{"F8":"Not Relevant"}}
+{"id":"1318371578694889472","clip_candidates":{"F99":{"rank":25,"distance":0.9416313171386719,"type":"text"}},"labels":{"F99":"No Stance"}}
+{"id":"1460794384887209984","clip_candidates":{"F67":{"rank":2,"distance":0.3875106871128082,"type":"image"}},"labels":{"F67":"Accept"}}
+{"id":"1459163290471391236","clip_candidates":{"F107":{"rank":3,"distance":0.37689390778541565,"type":"image"}},"labels":{"F107":"Not Relevant"}}
+{"id":"1467753772881305605","clip_candidates":{"F10":{"rank":30,"distance":0.36779963970184326,"type":"image"},"F26":{"rank":47,"distance":0.3750397562980652,"type":"image"},"F27":{"rank":46,"distance":0.3597922623157501,"type":"image"},"F37":{"rank":54,"distance":0.3616964519023895,"type":"image"},"F72":{"rank":13,"distance":0.3816075623035431,"type":"image"},"F74":{"rank":34,"distance":0.3836432695388794,"type":"image"},"F90":{"rank":33,"distance":0.37216851115226746,"type":"image"},"F111":{"rank":14,"distance":0.3691088557243347,"type":"image"}},"labels":{"F10":"Not Relevant","F26":"No Stance","F27":"Not Relevant","F37":"No Stance","F72":"Not Relevant","F74":"No Stance","F90":"No Stance","F111":"Not Relevant"}}
+{"id":"1304340322932027392","clip_candidates":{"F82":{"rank":48,"distance":0.8987152576446533,"type":"text"}},"labels":{"F82":"Not Relevant"}}
+{"id":"1474098096913199112","clip_candidates":{"F6":{"rank":23,"distance":0.9100263118743896,"type":"text"},"F7":{"rank":16,"distance":0.9120802283287048,"type":"text"}},"labels":{"F6":"Not Relevant","F7":"No Stance"}}
+{"id":"1435140023729393667","clip_candidates":{"F13":{"rank":22,"distance":0.3825519382953644,"type":"image"},"F30":{"rank":52,"distance":0.3431756794452667,"type":"image"}},"labels":{"F13":"No Stance","F30":"Reject"}}
+{"id":"1457024736333123600","clip_candidates":{"F48":{"rank":24,"distance":0.3765137195587158,"type":"image"}},"labels":{"F48":"Not Relevant"}}
+{"id":"1336724932991086593","clip_candidates":{"F9":{"rank":47,"distance":0.8708314299583435,"type":"text"}},"labels":{"F9":"Not Relevant"}}
+{"id":"1424622787507933187","clip_candidates":{"F106":{"rank":18,"distance":0.3861936330795288,"type":"image"}},"labels":{"F106":"Accept"}}
+{"id":"1438390546486075392","clip_candidates":{"F24":{"rank":45,"distance":0.9165184497833252,"type":"text"}},"labels":{"F24":"No Stance"}}
+{"id":"1418570595965485065","clip_candidates":{"F93":{"rank":38,"distance":0.37040090560913086,"type":"image"}},"labels":{"F93":"Not Relevant"}}
+{"id":"1306971465888272384","clip_candidates":{"F10":{"rank":43,"distance":0.936713457107544,"type":"text"}},"labels":{"F10":"No Stance"}}
+{"id":"1336061697568759809","clip_candidates":{"F106":{"rank":45,"distance":0.38119593262672424,"type":"image"},"F110":{"rank":19,"distance":0.3698141574859619,"type":"image"}},"labels":{"F106":"Not Relevant","F110":"No Stance"}}
+{"id":"1296446125336141824","clip_candidates":{"F4":{"rank":9,"distance":0.3909377157688141,"type":"image"}},"labels":{"F4":"Not Relevant"}}
+{"id":"1459800303105150976","clip_candidates":{"F14":{"rank":45,"distance":0.3685557246208191,"type":"image"}},"labels":{"F14":"No Stance"}}
+{"id":"1469821001949229061","clip_candidates":{"F27":{"rank":15,"distance":0.929746150970459,"type":"text"}},"labels":{"F27":"Accept"}}
+{"id":"1434910073738956802","clip_candidates":{"F58":{"rank":13,"distance":0.36669978499412537,"type":"image"}},"labels":{"F58":"Accept"}}
+{"id":"1451386180444905485","clip_candidates":{"F70":{"rank":12,"distance":0.9545183777809143,"type":"text"},"F94":{"rank":50,"distance":0.9277220368385315,"type":"text"}},"labels":{"F70":"No Stance","F94":"Not Relevant"}}
+{"id":"1440436294593568778","clip_candidates":{"F96":{"rank":43,"distance":0.9362124800682068,"type":"text"}},"labels":{"F96":"Not Relevant"}}
+{"id":"1338899896737394688","clip_candidates":{"F25":{"rank":12,"distance":0.3384120464324951,"type":"image"}},"labels":{"F25":"Not Relevant"}}
+{"id":"1418541429207576579","clip_candidates":{"F31":{"rank":47,"distance":0.9125378131866455,"type":"text"}},"labels":{"F31":"No Stance"}}
+{"id":"1338219457358032906","clip_candidates":{"F23":{"rank":34,"distance":0.3717344403266907,"type":"image"}},"labels":{"F23":"No Stance"}}
+{"id":"1336270883132870656","clip_candidates":{"F23":{"rank":30,"distance":0.3724079132080078,"type":"image"},"F44":{"rank":39,"distance":0.3726739287376404,"type":"image"},"F102":{"rank":1,"distance":0.38408949971199036,"type":"image"},"F104":{"rank":1,"distance":0.37806448340415955,"type":"image"}},"labels":{"F23":"Reject","F44":"No Stance","F102":"Not Relevant","F104":"No Stance"}}
+{"id":"1460772327591923718","clip_candidates":{"F37":{"rank":37,"distance":0.3643646240234375,"type":"image"}},"labels":{"F37":"No Stance"}}
+{"id":"1338975580738506757","clip_candidates":{"F54":{"rank":24,"distance":0.8971020579338074,"type":"text"},"F56":{"rank":17,"distance":0.7506100535392761,"type":"text"}},"labels":{"F54":"Not Relevant","F56":"Accept"}}
+{"id":"1327329798713200643","clip_candidates":{"F94":{"rank":14,"distance":0.366214394569397,"type":"image"}},"labels":{"F94":"Not Relevant"}}
+{"id":"1466757876895166474","clip_candidates":{"F26":{"rank":44,"distance":0.3757556080818176,"type":"image"},"F37":{"rank":51,"distance":0.36196368932724,"type":"image"},"F54":{"rank":18,"distance":0.3731685280799866,"type":"image"}},"labels":{"F26":"No Stance","F37":"Not Relevant","F54":"Not Relevant"}}
+{"id":"1448090715322519555","clip_candidates":{"F56":{"rank":37,"distance":0.3019048571586609,"type":"image"}},"labels":{"F56":"No Stance"}}
+{"id":"1429374007158079493","clip_candidates":{"F6":{"rank":50,"distance":0.9068909883499146,"type":"text"},"F12":{"rank":22,"distance":0.8741093873977661,"type":"text"},"F36":{"rank":54,"distance":0.9040000438690186,"type":"text"},"F42":{"rank":22,"distance":0.9053562879562378,"type":"text"},"F69":{"rank":17,"distance":0.9343014359474182,"type":"text"}},"labels":{"F6":"No Stance","F12":"No Stance","F36":"Not Relevant","F42":"Accept","F69":"Accept"}}
+{"id":"1246012461565784064","clip_candidates":{"F91":{"rank":36,"distance":0.3747982084751129,"type":"image"}},"labels":{"F91":"Not Relevant"}}
+{"id":"1442570898289143813","clip_candidates":{"F51":{"rank":25,"distance":0.9198251962661743,"type":"text"}},"labels":{"F51":"No Stance"}}
+{"id":"1425463774161612805","clip_candidates":{"F42":{"rank":37,"distance":0.3761260509490967,"type":"image"}},"labels":{"F42":"Not Relevant"}}
+{"id":"1326315477618974720","clip_candidates":{"F63":{"rank":19,"distance":0.9281534552574158,"type":"text"}},"labels":{"F63":"Not Relevant"}}
+{"id":"1431409954431373317","clip_candidates":{"F69":{"rank":2,"distance":0.3894859254360199,"type":"image"}},"labels":{"F69":"Not Relevant"}}
+{"id":"1424987529275535361","clip_candidates":{"F1":{"rank":34,"distance":0.8953202366828918,"type":"text"},"F7":{"rank":35,"distance":0.9085073471069336,"type":"text"},"F55":{"rank":9,"distance":0.9146170616149902,"type":"text"}},"labels":{"F1":"Reject","F7":"Reject","F55":"Not Relevant"}}
+{"id":"1246542316409704454","clip_candidates":{"F55":{"rank":42,"distance":0.9093289971351624,"type":"text"},"F89":{"rank":39,"distance":0.9432985782623291,"type":"text"},"F112":{"rank":31,"distance":0.9158883690834045,"type":"text"}},"labels":{"F55":"No Stance","F89":"Not Relevant","F112":"Not Relevant"}}
+{"id":"1421025963563945984","clip_candidates":{"F72":{"rank":51,"distance":0.9105917811393738,"type":"text"},"F99":{"rank":21,"distance":0.9427259564399719,"type":"text"}},"labels":{"F72":"Not Relevant","F99":"Not Relevant"}}
+{"id":"1291670591486005249","clip_candidates":{"F97":{"rank":54,"distance":0.9109691977500916,"type":"text"}},"labels":{"F97":"No Stance"}}
+{"id":"1425430470154756103","clip_candidates":{"F46":{"rank":13,"distance":0.9213181138038635,"type":"text"}},"labels":{"F46":"No Stance"}}
+{"id":"1337789817762033664","clip_candidates":{"F17":{"rank":39,"distance":0.9244223237037659,"type":"text"}},"labels":{"F17":"No Stance"}}
+{"id":"1337442909910687748","clip_candidates":{"F93":{"rank":31,"distance":0.918891966342926,"type":"text"}},"labels":{"F93":"No Stance"}}
+{"id":"1422191714178150407","clip_candidates":{"F72":{"rank":12,"distance":0.9158837199211121,"type":"text"}},"labels":{"F72":"Accept"}}
+{"id":"1436720658579402754","clip_candidates":{"F63":{"rank":30,"distance":0.36431771516799927,"type":"image"}},"labels":{"F63":"No Stance"}}
+{"id":"1471450063226515460","clip_candidates":{"F61":{"rank":27,"distance":0.9071900248527527,"type":"text"},"F106":{"rank":33,"distance":0.92948979139328,"type":"text"}},"labels":{"F61":"No Stance","F106":"Accept"}}
+{"id":"1476572799334559748","clip_candidates":{"F96":{"rank":14,"distance":0.3599134385585785,"type":"image"}},"labels":{"F96":"No Stance"}}
+{"id":"1418966655955345415","clip_candidates":{"F55":{"rank":8,"distance":0.35285571217536926,"type":"image"}},"labels":{"F55":"No Stance"}}
+{"id":"1423018443322834945","clip_candidates":{"F112":{"rank":37,"distance":0.35010582208633423,"type":"image"}},"labels":{"F112":"Not Relevant"}}
+{"id":"1455973602143215629","clip_candidates":{"F36":{"rank":32,"distance":0.3744937777519226,"type":"image"}},"labels":{"F36":"No Stance"}}
+{"id":"1283670211653181441","clip_candidates":{"F47":{"rank":24,"distance":0.9364259243011475,"type":"text"}},"labels":{"F47":"Not Relevant"}}
+{"id":"1430441117481422851","clip_candidates":{"F21":{"rank":34,"distance":0.38469600677490234,"type":"image"}},"labels":{"F21":"Accept"}}
+{"id":"1470390299415490566","clip_candidates":{"F29":{"rank":4,"distance":0.3827231824398041,"type":"image"}},"labels":{"F29":"No Stance"}}
+{"id":"1429963557995794433","clip_candidates":{"F99":{"rank":48,"distance":0.9397057890892029,"type":"text"}},"labels":{"F99":"Not Relevant"}}
+{"id":"1418172732307607553","clip_candidates":{"F75":{"rank":31,"distance":0.9198988080024719,"type":"text"}},"labels":{"F75":"Not Relevant"}}
+{"id":"1433648827941064717","clip_candidates":{"F38":{"rank":5,"distance":0.3677481412887573,"type":"image"}},"labels":{"F38":"Not Relevant"}}
+{"id":"1459480818640990219","clip_candidates":{"F17":{"rank":47,"distance":0.39028850197792053,"type":"image"}},"labels":{"F17":"Reject"}}
+{"id":"1418617306591240192","clip_candidates":{"F59":{"rank":6,"distance":0.3499796390533447,"type":"image"}},"labels":{"F59":"No Stance"}}
+{"id":"1277014142717747200","clip_candidates":{"F27":{"rank":37,"distance":0.36115938425064087,"type":"image"},"F39":{"rank":50,"distance":0.3559148609638214,"type":"image"}},"labels":{"F27":"No Stance","F39":"No Stance"}}
+{"id":"1437489411881644035","clip_candidates":{"F97":{"rank":3,"distance":0.388310045003891,"type":"image"}},"labels":{"F97":"Not Relevant"}}
+{"id":"1445479024973602822","clip_candidates":{"F109":{"rank":29,"distance":0.9405591487884521,"type":"text"}},"labels":{"F109":"Not Relevant"}}
+{"id":"1464307796497743874","clip_candidates":{"F101":{"rank":49,"distance":0.3612751364707947,"type":"image"}},"labels":{"F101":"Not Relevant"}}
+{"id":"1423928518103027713","clip_candidates":{"F108":{"rank":10,"distance":0.9015124440193176,"type":"text"}},"labels":{"F108":"Accept"}}
+{"id":"1466669632287383552","clip_candidates":{"F80":{"rank":36,"distance":0.37396734952926636,"type":"image"}},"labels":{"F80":"No Stance"}}
+{"id":"1436089776893947918","clip_candidates":{"F11":{"rank":39,"distance":0.36626628041267395,"type":"image"}},"labels":{"F11":"Reject"}}
+{"id":"1431594936009465857","clip_candidates":{"F42":{"rank":25,"distance":0.37918567657470703,"type":"image"}},"labels":{"F42":"Accept"}}
+{"id":"1418937470381592580","clip_candidates":{"F60":{"rank":45,"distance":0.353947252035141,"type":"image"},"F62":{"rank":8,"distance":0.36947548389434814,"type":"image"}},"labels":{"F60":"Not Relevant","F62":"Accept"}}
+{"id":"1432348698248458244","clip_candidates":{"F14":{"rank":9,"distance":0.9459441304206848,"type":"text"}},"labels":{"F14":"No Stance"}}
+{"id":"1432100462837252100","clip_candidates":{"F20":{"rank":42,"distance":0.31112566590309143,"type":"image"}},"labels":{"F20":"Accept"}}
+{"id":"1440303923353378832","clip_candidates":{"F61":{"rank":34,"distance":0.3781399726867676,"type":"image"}},"labels":{"F61":"No Stance"}}
+{"id":"1452331565183291394","clip_candidates":{"F91":{"rank":32,"distance":0.37570637464523315,"type":"image"},"F93":{"rank":30,"distance":0.3719099462032318,"type":"image"}},"labels":{"F91":"Not Relevant","F93":"Not Relevant"}}
+{"id":"1463457193236353029","clip_candidates":{"F99":{"rank":18,"distance":0.9431164860725403,"type":"text"}},"labels":{"F99":"Accept"}}
+{"id":"1331078230602866691","clip_candidates":{"F43":{"rank":28,"distance":0.3659866750240326,"type":"image"}},"labels":{"F43":"No Stance"}}
+{"id":"1419939948967251969","clip_candidates":{"F19":{"rank":23,"distance":0.9459702372550964,"type":"text"},"F55":{"rank":7,"distance":0.9149974584579468,"type":"text"}},"labels":{"F19":"No Stance","F55":"Not Relevant"}}
+{"id":"1436336915230363650","clip_candidates":{"F31":{"rank":5,"distance":0.38091275095939636,"type":"image"}},"labels":{"F31":"Reject"}}
+{"id":"1337768915250900994","clip_candidates":{"F107":{"rank":32,"distance":0.3675682544708252,"type":"image"}},"labels":{"F107":"No Stance"}}
+{"id":"1260302035934535682","clip_candidates":{"F1":{"rank":10,"distance":0.37523481249809265,"type":"image"}},"labels":{"F1":"Accept"}}
+{"id":"1424777446625320968","clip_candidates":{"F34":{"rank":51,"distance":0.3767413794994354,"type":"image"}},"labels":{"F34":"No Stance"}}
+{"id":"1462701489541943300","clip_candidates":{"F96":{"rank":3,"distance":0.9450104832649231,"type":"text"}},"labels":{"F96":"No Stance"}}
+{"id":"1248609291038158848","clip_candidates":{"F9":{"rank":12,"distance":0.8776297569274902,"type":"text"}},"labels":{"F9":"No Stance"}}
+{"id":"1447198255289405449","clip_candidates":{"F88":{"rank":49,"distance":0.9078617691993713,"type":"text"}},"labels":{"F88":"Reject"}}
+{"id":"1453964878926921730","clip_candidates":{"F106":{"rank":14,"distance":0.3870261311531067,"type":"image"}},"labels":{"F106":"Not Relevant"}}
+{"id":"1422180571082641408","clip_candidates":{"F95":{"rank":52,"distance":0.9316051006317139,"type":"text"}},"labels":{"F95":"Not Relevant"}}
+{"id":"1445133834429734914","clip_candidates":{"F56":{"rank":35,"distance":0.30240094661712646,"type":"image"}},"labels":{"F56":"Not Relevant"}}
+{"id":"1471437933085396999","clip_candidates":{"F39":{"rank":13,"distance":0.919062614440918,"type":"text"}},"labels":{"F39":"No Stance"}}
+{"id":"1330774298492088320","clip_candidates":{"F20":{"rank":40,"distance":0.3114713430404663,"type":"image"}},"labels":{"F20":"Accept"}}
+{"id":"1430767537873113089","clip_candidates":{"F101":{"rank":22,"distance":0.36670851707458496,"type":"image"}},"labels":{"F101":"Reject"}}
+{"id":"1421378594761236481","clip_candidates":{"F15":{"rank":46,"distance":0.3385668694972992,"type":"image"}},"labels":{"F15":"No Stance"}}
+{"id":"1286523804445941761","clip_candidates":{"F15":{"rank":10,"distance":0.3474668860435486,"type":"image"}},"labels":{"F15":"No Stance"}}
+{"id":"1434799201150386183","clip_candidates":{"F8":{"rank":11,"distance":0.37448886036872864,"type":"image"}},"labels":{"F8":"No Stance"}}
+{"id":"1430182875702378508","clip_candidates":{"F73":{"rank":6,"distance":0.9156920313835144,"type":"text"}},"labels":{"F73":"Accept"}}
+{"id":"1413483494349606914","clip_candidates":{"F95":{"rank":8,"distance":0.9394612312316895,"type":"text"}},"labels":{"F95":"Reject"}}
+{"id":"1335012131243253765","clip_candidates":{"F81":{"rank":29,"distance":0.9402944445610046,"type":"text"},"F84":{"rank":10,"distance":0.9200429916381836,"type":"text"},"F85":{"rank":5,"distance":0.9251996874809265,"type":"text"}},"labels":{"F81":"No Stance","F84":"Not Relevant","F85":"Not Relevant"}}
+{"id":"1463343721328508928","clip_candidates":{"F89":{"rank":45,"distance":0.9429293870925903,"type":"text"}},"labels":{"F89":"Not Relevant"}}
+{"id":"1435097462428024832","clip_candidates":{"F29":{"rank":36,"distance":0.8779141902923584,"type":"text"}},"labels":{"F29":"Not Relevant"}}
+{"id":"1477006720572571664","clip_candidates":{"F24":{"rank":49,"distance":0.3820641338825226,"type":"image"}},"labels":{"F24":"No Stance"}}
+{"id":"1450248296488964098","clip_candidates":{"F80":{"rank":43,"distance":0.9229292273521423,"type":"text"}},"labels":{"F80":"Reject"}}
+{"id":"1425428973639569411","clip_candidates":{"F85":{"rank":50,"distance":0.37842562794685364,"type":"image"}},"labels":{"F85":"Not Relevant"}}
+{"id":"1433355330419822594","clip_candidates":{"F23":{"rank":1,"distance":0.3831038177013397,"type":"image"},"F44":{"rank":23,"distance":0.3747933804988861,"type":"image"},"F74":{"rank":44,"distance":0.3824145197868347,"type":"image"},"F102":{"rank":42,"distance":0.3683673143386841,"type":"image"},"F106":{"rank":28,"distance":0.38340017199516296,"type":"image"}},"labels":{"F23":"Reject","F44":"Accept","F74":"Not Relevant","F102":"No Stance","F106":"Not Relevant"}}
+{"id":"1469387746506686464","clip_candidates":{"F19":{"rank":52,"distance":0.37784457206726074,"type":"image"},"F24":{"rank":26,"distance":0.3852507770061493,"type":"image"},"F27":{"rank":50,"distance":0.3593297600746155,"type":"image"},"F51":{"rank":27,"distance":0.3894655704498291,"type":"image"},"F76":{"rank":28,"distance":0.3852173984050751,"type":"image"},"F78":{"rank":47,"distance":0.38373029232025146,"type":"image"}},"labels":{"F19":"Accept","F24":"Accept","F27":"Not Relevant","F51":"Accept","F76":"Reject","F78":"Not Relevant"}}
+{"id":"1338649656327360523","clip_candidates":{"F84":{"rank":18,"distance":0.9183091521263123,"type":"text"},"F97":{"rank":26,"distance":0.9129557013511658,"type":"text"}},"labels":{"F84":"Not Relevant","F97":"Not Relevant"}}
+{"id":"1324286473084964870","clip_candidates":{"F39":{"rank":25,"distance":0.35967156291007996,"type":"image"}},"labels":{"F39":"Not Relevant"}}
+{"id":"1307050531765055494","clip_candidates":{"F104":{"rank":40,"distance":0.9329445958137512,"type":"text"}},"labels":{"F104":"No Stance"}}
+{"id":"1410465486131765250","clip_candidates":{"F5":{"rank":45,"distance":0.33907052874565125,"type":"image"}},"labels":{"F5":"Not Relevant"}}
+{"id":"1451505283071627266","clip_candidates":{"F78":{"rank":16,"distance":0.9379069209098816,"type":"text"},"F79":{"rank":3,"distance":0.9105336666107178,"type":"text"}},"labels":{"F78":"Reject","F79":"Accept"}}
+{"id":"1436460798247936004","clip_candidates":{"F48":{"rank":45,"distance":0.37425467371940613,"type":"image"},"F78":{"rank":25,"distance":0.38608551025390625,"type":"image"}},"labels":{"F48":"No Stance","F78":"No Stance"}}
+{"id":"1411064665598218244","clip_candidates":{"F43":{"rank":17,"distance":0.8924553990364075,"type":"text"}},"labels":{"F43":"Accept"}}
+{"id":"1411587597722345474","clip_candidates":{"F111":{"rank":3,"distance":0.3724287450313568,"type":"image"}},"labels":{"F111":"Not Relevant"}}
+{"id":"1338817638303207426","clip_candidates":{"F73":{"rank":44,"distance":0.9038800001144409,"type":"text"}},"labels":{"F73":"No Stance"}}
+{"id":"1474786276909858819","clip_candidates":{"F113":{"rank":31,"distance":0.37653008103370667,"type":"image"}},"labels":{"F113":"Accept"}}
+{"id":"1288621100465680384","clip_candidates":{"F57":{"rank":26,"distance":0.32415518164634705,"type":"image"}},"labels":{"F57":"Accept"}}
+{"id":"1469139743342477312","clip_candidates":{"F6":{"rank":1,"distance":0.9530276656150818,"type":"text"}},"labels":{"F6":"Accept"}}
+{"id":"1323850358121115648","clip_candidates":{"F62":{"rank":38,"distance":0.35833391547203064,"type":"image"}},"labels":{"F62":"No Stance"}}
+{"id":"1333246355482038272","clip_candidates":{"F105":{"rank":7,"distance":0.3674750328063965,"type":"image"}},"labels":{"F105":"No Stance"}}
+{"id":"1438238505470021632","clip_candidates":{"F81":{"rank":21,"distance":0.38108813762664795,"type":"image"},"F87":{"rank":25,"distance":0.37146779894828796,"type":"image"}},"labels":{"F81":"Accept","F87":"No Stance"}}
+{"id":"1419411082507083791","clip_candidates":{"F11":{"rank":20,"distance":0.3703865706920624,"type":"image"}},"labels":{"F11":"Not Relevant"}}
+{"id":"1443644330116325376","clip_candidates":{"F19":{"rank":54,"distance":0.37776678800582886,"type":"image"}},"labels":{"F19":"Accept"}}
+{"id":"1449939900313243655","clip_candidates":{"F14":{"rank":39,"distance":0.3694710433483124,"type":"image"}},"labels":{"F14":"Not Relevant"}}
+{"id":"1456726263331115008","clip_candidates":{"F2":{"rank":40,"distance":0.34866082668304443,"type":"image"}},"labels":{"F2":"Not Relevant"}}
+{"id":"1454848688497459212","clip_candidates":{"F62":{"rank":29,"distance":0.8908137083053589,"type":"text"},"F64":{"rank":30,"distance":0.9053095579147339,"type":"text"},"F65":{"rank":8,"distance":0.9201942682266235,"type":"text"},"F66":{"rank":25,"distance":0.9012593030929565,"type":"text"}},"labels":{"F62":"No Stance","F64":"No Stance","F65":"No Stance","F66":"No Stance"}}
+{"id":"1336353772319207427","clip_candidates":{"F35":{"rank":48,"distance":0.8842434883117676,"type":"text"}},"labels":{"F35":"No Stance"}}
+{"id":"1442625980451934208","clip_candidates":{"F53":{"rank":47,"distance":0.9296537041664124,"type":"text"}},"labels":{"F53":"Not Relevant"}}
+{"id":"1465021913017761797","clip_candidates":{"F100":{"rank":15,"distance":0.3928784430027008,"type":"image"}},"labels":{"F100":"Accept"}}
+{"id":"1435921056083189760","clip_candidates":{"F82":{"rank":17,"distance":0.36692774295806885,"type":"image"}},"labels":{"F82":"Accept"}}
+{"id":"1335928307552903169","clip_candidates":{"F38":{"rank":52,"distance":0.3584691882133484,"type":"image"}},"labels":{"F38":"No Stance"}}
+{"id":"1268231530083766274","clip_candidates":{"F71":{"rank":46,"distance":0.9245565533638,"type":"text"}},"labels":{"F71":"Reject"}}
+{"id":"1430176887423262720","clip_candidates":{"F86":{"rank":51,"distance":0.9223682284355164,"type":"text"}},"labels":{"F86":"Not Relevant"}}
+{"id":"1307442009104416769","clip_candidates":{"F47":{"rank":38,"distance":0.3760290741920471,"type":"image"}},"labels":{"F47":"Not Relevant"}}
+{"id":"1339183244613472256","clip_candidates":{"F20":{"rank":21,"distance":0.8346072435379028,"type":"text"}},"labels":{"F20":"Not Relevant"}}
+{"id":"1448654662752608266","clip_candidates":{"F85":{"rank":49,"distance":0.3786919116973877,"type":"image"}},"labels":{"F85":"Not Relevant"}}
+{"id":"1337381730173526017","clip_candidates":{"F105":{"rank":17,"distance":0.3644419312477112,"type":"image"}},"labels":{"F105":"Not Relevant"}}
+{"id":"1425920436982861829","clip_candidates":{"F74":{"rank":45,"distance":0.3823680281639099,"type":"image"}},"labels":{"F74":"No Stance"}}
+{"id":"1433569522334715905","clip_candidates":{"F11":{"rank":19,"distance":0.9280878901481628,"type":"text"}},"labels":{"F11":"No Stance"}}
+{"id":"1245785783413456897","clip_candidates":{"F29":{"rank":45,"distance":0.8770982623100281,"type":"text"}},"labels":{"F29":"Accept"}}
+{"id":"1337357147190005762","clip_candidates":{"F91":{"rank":49,"distance":0.37324076890945435,"type":"image"}},"labels":{"F91":"No Stance"}}
+{"id":"1339656493780656129","clip_candidates":{"F78":{"rank":49,"distance":0.9317458271980286,"type":"text"}},"labels":{"F78":"No Stance"}}
+{"id":"1434860181028950017","clip_candidates":{"F26":{"rank":50,"distance":0.3746740221977234,"type":"image"},"F36":{"rank":51,"distance":0.37297141551971436,"type":"image"},"F37":{"rank":20,"distance":0.36715078353881836,"type":"image"},"F41":{"rank":50,"distance":0.35516899824142456,"type":"image"}},"labels":{"F26":"Not Relevant","F36":"No Stance","F37":"Not Relevant","F41":"Not Relevant"}}
+{"id":"1417149779688230919","clip_candidates":{"F47":{"rank":44,"distance":0.37545183300971985,"type":"image"},"F82":{"rank":11,"distance":0.36902278661727905,"type":"image"}},"labels":{"F47":"No Stance","F82":"Not Relevant"}}
+{"id":"1463523377075916809","clip_candidates":{"F24":{"rank":38,"distance":0.38346707820892334,"type":"image"}},"labels":{"F24":"Accept"}}
+{"id":"1430146928734507011","clip_candidates":{"F89":{"rank":23,"distance":0.9466930627822876,"type":"text"}},"labels":{"F89":"Accept"}}
+{"id":"1468340191605800972","clip_candidates":{"F104":{"rank":37,"distance":0.3641144633293152,"type":"image"}},"labels":{"F104":"Not Relevant"}}
+{"id":"1438887852801155074","clip_candidates":{"F40":{"rank":42,"distance":0.8997746109962463,"type":"text"}},"labels":{"F40":"Not Relevant"}}
+{"id":"1240053571153993730","clip_candidates":{"F112":{"rank":4,"distance":0.9213305115699768,"type":"text"}},"labels":{"F112":"No Stance"}}
+{"id":"1436331070224539652","clip_candidates":{"F57":{"rank":6,"distance":0.8568204641342163,"type":"text"}},"labels":{"F57":"No Stance"}}
+{"id":"1257220925138833409","clip_candidates":{"F62":{"rank":15,"distance":0.36670440435409546,"type":"image"}},"labels":{"F62":"Not Relevant"}}
+{"id":"1306217392247369735","clip_candidates":{"F102":{"rank":49,"distance":0.36792778968811035,"type":"image"}},"labels":{"F102":"Not Relevant"}}
+{"id":"1432378507787522058","clip_candidates":{"F24":{"rank":29,"distance":0.9177609086036682,"type":"text"},"F67":{"rank":9,"distance":0.9278517365455627,"type":"text"},"F70":{"rank":40,"distance":0.9505390524864197,"type":"text"},"F81":{"rank":50,"distance":0.9369691610336304,"type":"text"}},"labels":{"F24":"Not Relevant","F67":"Not Relevant","F70":"Not Relevant","F81":"Not Relevant"}}
+{"id":"1473388302204084231","clip_candidates":{"F45":{"rank":10,"distance":0.3954966068267822,"type":"image"},"F51":{"rank":22,"distance":0.39008966088294983,"type":"image"},"F53":{"rank":12,"distance":0.3901469111442566,"type":"image"}},"labels":{"F45":"Not Relevant","F51":"Not Relevant","F53":"Not Relevant"}}
+{"id":"1453278075228233741","clip_candidates":{"F69":{"rank":3,"distance":0.3872102200984955,"type":"image"},"F74":{"rank":20,"distance":0.38542425632476807,"type":"image"}},"labels":{"F69":"Not Relevant","F74":"Accept"}}
+{"id":"1446520986921312260","clip_candidates":{"F67":{"rank":4,"distance":0.3857322335243225,"type":"image"}},"labels":{"F67":"Accept"}}
+{"id":"1334427791681441793","clip_candidates":{"F44":{"rank":37,"distance":0.9373964071273804,"type":"text"}},"labels":{"F44":"Not Relevant"}}
+{"id":"1410915869543198727","clip_candidates":{"F47":{"rank":3,"distance":0.3834870755672455,"type":"image"},"F48":{"rank":42,"distance":0.37439024448394775,"type":"image"},"F90":{"rank":46,"distance":0.37059327960014343,"type":"image"}},"labels":{"F47":"Not Relevant","F48":"Not Relevant","F90":"Accept"}}
+{"id":"1337112477029511170","clip_candidates":{"F76":{"rank":27,"distance":0.934073805809021,"type":"text"}},"labels":{"F76":"No Stance"}}
+{"id":"1331097867671523328","clip_candidates":{"F52":{"rank":18,"distance":0.38668522238731384,"type":"image"}},"labels":{"F52":"Not Relevant"}}
+{"id":"1463387666972561412","clip_candidates":{"F49":{"rank":22,"distance":0.9360918998718262,"type":"text"},"F89":{"rank":10,"distance":0.9497342705726624,"type":"text"}},"labels":{"F49":"Not Relevant","F89":"Not Relevant"}}
+{"id":"1322653111362703360","clip_candidates":{"F22":{"rank":28,"distance":0.9374907612800598,"type":"text"}},"labels":{"F22":"No Stance"}}
+{"id":"1430955467484827648","clip_candidates":{"F14":{"rank":51,"distance":0.36789005994796753,"type":"image"}},"labels":{"F14":"Not Relevant"}}
+{"id":"1461763956951842822","clip_candidates":{"F61":{"rank":24,"distance":0.37978699803352356,"type":"image"}},"labels":{"F61":"Accept"}}
+{"id":"1336358632246538241","clip_candidates":{"F26":{"rank":19,"distance":0.38137590885162354,"type":"image"}},"labels":{"F26":"No Stance"}}
+{"id":"1465047531835043847","clip_candidates":{"F16":{"rank":1,"distance":0.3201461732387543,"type":"image"}},"labels":{"F16":"Not Relevant"}}
+{"id":"1332127049700368384","clip_candidates":{"F25":{"rank":11,"distance":0.8533653616905212,"type":"text"}},"labels":{"F25":"No Stance"}}
+{"id":"1446521034975453207","clip_candidates":{"F65":{"rank":26,"distance":0.9133683443069458,"type":"text"}},"labels":{"F65":"No Stance"}}
+{"id":"1465935888647553024","clip_candidates":{"F37":{"rank":28,"distance":0.36554640531539917,"type":"image"}},"labels":{"F37":"No Stance"}}
+{"id":"1425190079375544320","clip_candidates":{"F70":{"rank":48,"distance":0.3738526403903961,"type":"image"}},"labels":{"F70":"Not Relevant"}}
+{"id":"1424217605133324288","clip_candidates":{"F30":{"rank":14,"distance":0.8714163899421692,"type":"text"},"F35":{"rank":39,"distance":0.8857022523880005,"type":"text"},"F37":{"rank":6,"distance":0.9118816256523132,"type":"text"},"F41":{"rank":35,"distance":0.9111567139625549,"type":"text"},"F55":{"rank":44,"distance":0.9090537428855896,"type":"text"}},"labels":{"F30":"No Stance","F35":"Accept","F37":"Not Relevant","F41":"Accept","F55":"Not Relevant"}}
+{"id":"1257798070714150913","clip_candidates":{"F68":{"rank":36,"distance":0.33207303285598755,"type":"image"}},"labels":{"F68":"No Stance"}}
+{"id":"1463545206163353613","clip_candidates":{"F59":{"rank":54,"distance":0.8873571753501892,"type":"text"}},"labels":{"F59":"Not Relevant"}}
+{"id":"1436034657980715013","clip_candidates":{"F20":{"rank":35,"distance":0.3130452632904053,"type":"image"}},"labels":{"F20":"No Stance"}}
+{"id":"1425993834417115137","clip_candidates":{"F31":{"rank":10,"distance":0.9182915091514587,"type":"text"}},"labels":{"F31":"No Stance"}}
+{"id":"1410472987481018373","clip_candidates":{"F2":{"rank":8,"distance":0.8948490619659424,"type":"text"}},"labels":{"F2":"Reject"}}
+{"id":"1414737378296610817","clip_candidates":{"F54":{"rank":35,"distance":0.36657053232192993,"type":"image"}},"labels":{"F54":"Reject"}}
+{"id":"1433788132130963458","clip_candidates":{"F8":{"rank":52,"distance":0.8643121123313904,"type":"text"},"F104":{"rank":38,"distance":0.9331818222999573,"type":"text"},"F105":{"rank":31,"distance":0.9369363784790039,"type":"text"},"F110":{"rank":27,"distance":0.9347891807556152,"type":"text"},"F113":{"rank":47,"distance":0.8956782817840576,"type":"text"}},"labels":{"F8":"Not Relevant","F104":"Not Relevant","F105":"Not Relevant","F110":"Accept","F113":"Not Relevant"}}
+{"id":"1434407067620675586","clip_candidates":{"F50":{"rank":36,"distance":0.35817819833755493,"type":"image"}},"labels":{"F50":"No Stance"}}
+{"id":"1471024799246090241","clip_candidates":{"F24":{"rank":16,"distance":0.9203276038169861,"type":"text"}},"labels":{"F24":"Accept"}}
+{"id":"1462942601389039618","clip_candidates":{"F26":{"rank":19,"distance":0.9151352643966675,"type":"text"}},"labels":{"F26":"Reject"}}
+{"id":"1246419253617725440","clip_candidates":{"F113":{"rank":40,"distance":0.8966153860092163,"type":"text"}},"labels":{"F113":"No Stance"}}
+{"id":"1322150651254562816","clip_candidates":{"F104":{"rank":20,"distance":0.9350183010101318,"type":"text"},"F105":{"rank":23,"distance":0.9380910396575928,"type":"text"}},"labels":{"F104":"No Stance","F105":"Not Relevant"}}
+{"id":"1422875185770860546","clip_candidates":{"F90":{"rank":48,"distance":0.3704569339752197,"type":"image"},"F94":{"rank":4,"distance":0.3719063103199005,"type":"image"}},"labels":{"F90":"No Stance","F94":"No Stance"}}
+{"id":"1266122093206306821","clip_candidates":{"F12":{"rank":39,"distance":0.8721297383308411,"type":"text"}},"labels":{"F12":"No Stance"}}
+{"id":"1293786495816355841","clip_candidates":{"F7":{"rank":5,"distance":0.3695126473903656,"type":"image"},"F39":{"rank":2,"distance":0.3756422698497772,"type":"image"},"F86":{"rank":22,"distance":0.38620251417160034,"type":"image"},"F101":{"rank":12,"distance":0.3689267635345459,"type":"image"}},"labels":{"F7":"Not Relevant","F39":"Reject","F86":"Reject","F101":"No Stance"}}
+{"id":"1439324122434125824","clip_candidates":{"F59":{"rank":35,"distance":0.8905167579650879,"type":"text"}},"labels":{"F59":"Not Relevant"}}
+{"id":"1442918091462115331","clip_candidates":{"F16":{"rank":40,"distance":0.30601412057876587,"type":"image"}},"labels":{"F16":"Reject"}}
+{"id":"1337197810937171969","clip_candidates":{"F30":{"rank":7,"distance":0.877672553062439,"type":"text"},"F112":{"rank":3,"distance":0.9224869012832642,"type":"text"}},"labels":{"F30":"No Stance","F112":"Not Relevant"}}
+{"id":"1412456565236453378","clip_candidates":{"F100":{"rank":47,"distance":0.3862307071685791,"type":"image"}},"labels":{"F100":"Not Relevant"}}
+{"id":"1451019575450025986","clip_candidates":{"F79":{"rank":47,"distance":0.3403840959072113,"type":"image"}},"labels":{"F79":"Not Relevant"}}
+{"id":"1438287681486835715","clip_candidates":{"F35":{"rank":17,"distance":0.8937498331069946,"type":"text"}},"labels":{"F35":"Not Relevant"}}
+{"id":"1469400393922879490","clip_candidates":{"F57":{"rank":55,"distance":0.8421486020088196,"type":"text"}},"labels":{"F57":"Not Relevant"}}
+{"id":"1434879753278853122","clip_candidates":{"F15":{"rank":34,"distance":0.34023910760879517,"type":"image"}},"labels":{"F15":"Not Relevant"}}
+{"id":"1468559980508889097","clip_candidates":{"F92":{"rank":30,"distance":0.38179096579551697,"type":"image"}},"labels":{"F92":"Not Relevant"}}
+{"id":"1337546337764712450","clip_candidates":{"F44":{"rank":49,"distance":0.3711221218109131,"type":"image"},"F74":{"rank":36,"distance":0.3833613693714142,"type":"image"}},"labels":{"F44":"No Stance","F74":"Not Relevant"}}
+{"id":"1459645443965476864","clip_candidates":{"F64":{"rank":44,"distance":0.35480207204818726,"type":"image"},"F66":{"rank":20,"distance":0.3542967438697815,"type":"image"}},"labels":{"F64":"Reject","F66":"Reject"}}
+{"id":"1443272446422003712","clip_candidates":{"F72":{"rank":54,"distance":0.9101210236549377,"type":"text"}},"labels":{"F72":"Not Relevant"}}
+{"id":"1439913247361028100","clip_candidates":{"F29":{"rank":30,"distance":0.8790364265441895,"type":"text"}},"labels":{"F29":"Not Relevant"}}
+{"id":"1428027047251566593","clip_candidates":{"F97":{"rank":11,"distance":0.9153697490692139,"type":"text"}},"labels":{"F97":"Accept"}}
+{"id":"1437210487050027010","clip_candidates":{"F63":{"rank":16,"distance":0.3673897981643677,"type":"image"}},"labels":{"F63":"Reject"}}
+{"id":"1263573232411688969","clip_candidates":{"F28":{"rank":8,"distance":0.34581848978996277,"type":"image"}},"labels":{"F28":"No Stance"}}
+{"id":"1240420157085962241","clip_candidates":{"F87":{"rank":38,"distance":0.9325982332229614,"type":"text"},"F96":{"rank":36,"distance":0.9365066885948181,"type":"text"},"F107":{"rank":25,"distance":0.9221788644790649,"type":"text"}},"labels":{"F87":"Accept","F96":"Reject","F107":"Accept"}}
+{"id":"1471865708812374018","clip_candidates":{"F68":{"rank":29,"distance":0.3328661322593689,"type":"image"}},"labels":{"F68":"No Stance"}}
+{"id":"1442405047225049095","clip_candidates":{"F1":{"rank":18,"distance":0.3705334961414337,"type":"image"}},"labels":{"F1":"Not Relevant"}}
+{"id":"1338824575568781318","clip_candidates":{"F92":{"rank":2,"distance":0.9081069231033325,"type":"text"}},"labels":{"F92":"No Stance"}}
+{"id":"1430197826630438913","clip_candidates":{"F55":{"rank":18,"distance":0.3494390547275543,"type":"image"}},"labels":{"F55":"Not Relevant"}}
+{"id":"1432883961798201345","clip_candidates":{"F68":{"rank":48,"distance":0.33067870140075684,"type":"image"}},"labels":{"F68":"Not Relevant"}}
+{"id":"1469306172767453196","clip_candidates":{"F12":{"rank":50,"distance":0.3762874901294708,"type":"image"}},"labels":{"F12":"Not Relevant"}}
+{"id":"1449111838155755520","clip_candidates":{"F99":{"rank":44,"distance":0.940069317817688,"type":"text"}},"labels":{"F99":"Not Relevant"}}
+{"id":"1466474707750998029","clip_candidates":{"F8":{"rank":15,"distance":0.8725778460502625,"type":"text"}},"labels":{"F8":"Reject"}}
+{"id":"1314585283917238273","clip_candidates":{"F65":{"rank":11,"distance":0.9186388850212097,"type":"text"}},"labels":{"F65":"Accept"}}
+{"id":"1272438694545219592","clip_candidates":{"F51":{"rank":12,"distance":0.9235295653343201,"type":"text"},"F100":{"rank":32,"distance":0.9252002239227295,"type":"text"}},"labels":{"F51":"Not Relevant","F100":"No Stance"}}
+{"id":"1313822633193021441","clip_candidates":{"F36":{"rank":23,"distance":0.3756338655948639,"type":"image"}},"labels":{"F36":"Not Relevant"}}
+{"id":"1335252666264522752","clip_candidates":{"F25":{"rank":14,"distance":0.8503328561782837,"type":"text"}},"labels":{"F25":"No Stance"}}
+{"id":"1330163427382349826","clip_candidates":{"F3":{"rank":16,"distance":0.9320175051689148,"type":"text"},"F47":{"rank":14,"distance":0.9398020505905151,"type":"text"},"F48":{"rank":16,"distance":0.9431706666946411,"type":"text"},"F90":{"rank":34,"distance":0.947124183177948,"type":"text"}},"labels":{"F3":"Accept","F47":"Not Relevant","F48":"Reject","F90":"Not Relevant"}}
+{"id":"1429940988533956610","clip_candidates":{"F46":{"rank":2,"distance":0.924710750579834,"type":"text"},"F68":{"rank":50,"distance":0.9238399267196655,"type":"text"}},"labels":{"F46":"Accept","F68":"No Stance"}}
+{"id":"1436319386059563008","clip_candidates":{"F78":{"rank":19,"distance":0.38814303278923035,"type":"image"}},"labels":{"F78":"Not Relevant"}}
+{"id":"1318111778060972033","clip_candidates":{"F45":{"rank":34,"distance":0.38910630345344543,"type":"image"}},"labels":{"F45":"Not Relevant"}}
+{"id":"1455688449818652673","clip_candidates":{"F74":{"rank":23,"distance":0.38498324155807495,"type":"image"}},"labels":{"F74":"Not Relevant"}}
+{"id":"1452650952188649476","clip_candidates":{"F47":{"rank":9,"distance":0.38023704290390015,"type":"image"},"F48":{"rank":8,"distance":0.3804568350315094,"type":"image"}},"labels":{"F47":"Not Relevant","F48":"Accept"}}
+{"id":"1334078273136046083","clip_candidates":{"F79":{"rank":21,"distance":0.9031612873077393,"type":"text"}},"labels":{"F79":"No Stance"}}
+{"id":"1454954820708806664","clip_candidates":{"F13":{"rank":25,"distance":0.3815297782421112,"type":"image"}},"labels":{"F13":"Accept"}}
+{"id":"1447415050667446273","clip_candidates":{"F63":{"rank":32,"distance":0.9266259670257568,"type":"text"},"F85":{"rank":41,"distance":0.9156390428543091,"type":"text"}},"labels":{"F63":"No Stance","F85":"Not Relevant"}}
+{"id":"1327409436265119744","clip_candidates":{"F26":{"rank":50,"distance":0.9078924059867859,"type":"text"},"F52":{"rank":26,"distance":0.9207687973976135,"type":"text"},"F54":{"rank":27,"distance":0.896996259689331,"type":"text"},"F60":{"rank":25,"distance":0.9063740968704224,"type":"text"}},"labels":{"F26":"Accept","F52":"Reject","F54":"Accept","F60":"Reject"}}
+{"id":"1421930178591313923","clip_candidates":{"F37":{"rank":44,"distance":0.9058931469917297,"type":"text"}},"labels":{"F37":"Not Relevant"}}
+{"id":"1456391210591940608","clip_candidates":{"F56":{"rank":42,"distance":0.30024051666259766,"type":"image"}},"labels":{"F56":"Not Relevant"}}
+{"id":"1329094032488689669","clip_candidates":{"F33":{"rank":28,"distance":0.36215725541114807,"type":"image"}},"labels":{"F33":"No Stance"}}
+{"id":"1255086038315421701","clip_candidates":{"F44":{"rank":26,"distance":0.3743583858013153,"type":"image"}},"labels":{"F44":"No Stance"}}
+{"id":"1430613449378250765","clip_candidates":{"F53":{"rank":45,"distance":0.3813095688819885,"type":"image"}},"labels":{"F53":"No Stance"}}
+{"id":"1419168768949846016","clip_candidates":{"F30":{"rank":3,"distance":0.9048941731452942,"type":"text"}},"labels":{"F30":"Accept"}}
+{"id":"1338883917428842498","clip_candidates":{"F1":{"rank":4,"distance":0.9042654633522034,"type":"text"}},"labels":{"F1":"No Stance"}}
+{"id":"1461465860242030593","clip_candidates":{"F4":{"rank":4,"distance":0.39356979727745056,"type":"image"}},"labels":{"F4":"Not Relevant"}}
+{"id":"1339415161887748097","clip_candidates":{"F28":{"rank":38,"distance":0.885226309299469,"type":"text"},"F63":{"rank":36,"distance":0.9260299801826477,"type":"text"}},"labels":{"F28":"Not Relevant","F63":"Not Relevant"}}
+{"id":"1336063198680715265","clip_candidates":{"F111":{"rank":31,"distance":0.9426916837692261,"type":"text"}},"labels":{"F111":"Not Relevant"}}
+{"id":"1454035920315772942","clip_candidates":{"F109":{"rank":3,"distance":0.3573921024799347,"type":"image"}},"labels":{"F109":"Not Relevant"}}
+{"id":"1476206292209438721","clip_candidates":{"F75":{"rank":52,"distance":0.9176980257034302,"type":"text"}},"labels":{"F75":"Accept"}}
+{"id":"1439350698559229954","clip_candidates":{"F81":{"rank":3,"distance":0.38771048188209534,"type":"image"},"F84":{"rank":24,"distance":0.37974002957344055,"type":"image"}},"labels":{"F81":"Reject","F84":"Accept"}}
+{"id":"1443326771265368065","clip_candidates":{"F110":{"rank":51,"distance":0.9318698644638062,"type":"text"}},"labels":{"F110":"No Stance"}}
+{"id":"1336394336876040192","clip_candidates":{"F104":{"rank":47,"distance":0.362581729888916,"type":"image"}},"labels":{"F104":"Not Relevant"}}
+{"id":"1431246799399002121","clip_candidates":{"F55":{"rank":37,"distance":0.9095083475112915,"type":"text"},"F58":{"rank":1,"distance":0.9347594380378723,"type":"text"}},"labels":{"F55":"Accept","F58":"Reject"}}
+{"id":"1431671741064036352","clip_candidates":{"F88":{"rank":50,"distance":0.9077621698379517,"type":"text"}},"labels":{"F88":"Reject"}}
+{"id":"1436042220147183624","clip_candidates":{"F101":{"rank":40,"distance":0.9391061067581177,"type":"text"}},"labels":{"F101":"Reject"}}
+{"id":"1430509424280485891","clip_candidates":{"F35":{"rank":13,"distance":0.8959284424781799,"type":"text"}},"labels":{"F35":"Not Relevant"}}
+{"id":"1326912060484153347","clip_candidates":{"F43":{"rank":33,"distance":0.364802747964859,"type":"image"},"F61":{"rank":6,"distance":0.38521629571914673,"type":"image"},"F82":{"rank":15,"distance":0.3670530319213867,"type":"image"}},"labels":{"F43":"Not Relevant","F61":"Not Relevant","F82":"No Stance"}}
+{"id":"1414490976194805760","clip_candidates":{"F103":{"rank":10,"distance":0.9038811922073364,"type":"text"}},"labels":{"F103":"Accept"}}
+{"id":"1428919313696792576","clip_candidates":{"F103":{"rank":53,"distance":0.35234352946281433,"type":"image"}},"labels":{"F103":"Accept"}}
+{"id":"1420875615868264450","clip_candidates":{"F70":{"rank":34,"distance":0.3751133382320404,"type":"image"}},"labels":{"F70":"Reject"}}
+{"id":"1448225507456131073","clip_candidates":{"F78":{"rank":39,"distance":0.3840629458427429,"type":"image"}},"labels":{"F78":"Reject"}}
+{"id":"1425842650419056642","clip_candidates":{"F65":{"rank":42,"distance":0.90935879945755,"type":"text"}},"labels":{"F65":"Not Relevant"}}
+{"id":"1424045214482812928","clip_candidates":{"F85":{"rank":43,"distance":0.37908774614334106,"type":"image"}},"labels":{"F85":"No Stance"}}
+{"id":"1411538205560741897","clip_candidates":{"F67":{"rank":51,"distance":0.37266066670417786,"type":"image"}},"labels":{"F67":"Not Relevant"}}
+{"id":"1441402322534473729","clip_candidates":{"F12":{"rank":45,"distance":0.37651705741882324,"type":"image"}},"labels":{"F12":"No Stance"}}
+{"id":"1426270156431400962","clip_candidates":{"F1":{"rank":39,"distance":0.8943126797676086,"type":"text"},"F110":{"rank":30,"distance":0.9346363544464111,"type":"text"}},"labels":{"F1":"No Stance","F110":"No Stance"}}
+{"id":"1326064187232161793","clip_candidates":{"F48":{"rank":46,"distance":0.37423214316368103,"type":"image"}},"labels":{"F48":"Not Relevant"}}
+{"id":"1413560493051088898","clip_candidates":{"F18":{"rank":40,"distance":0.33580997586250305,"type":"image"},"F34":{"rank":9,"distance":0.3877606987953186,"type":"image"}},"labels":{"F18":"Reject","F34":"Accept"}}
+{"id":"1421153952414961666","clip_candidates":{"F91":{"rank":50,"distance":0.3729919195175171,"type":"image"}},"labels":{"F91":"Accept"}}
+{"id":"1437866762163286016","clip_candidates":{"F98":{"rank":53,"distance":0.37098971009254456,"type":"image"}},"labels":{"F98":"Not Relevant"}}
+{"id":"1471903022485843979","clip_candidates":{"F88":{"rank":18,"distance":0.3709685504436493,"type":"image"},"F106":{"rank":11,"distance":0.3881447911262512,"type":"image"}},"labels":{"F88":"Not Relevant","F106":"Not Relevant"}}
+{"id":"1437209009249939457","clip_candidates":{"F2":{"rank":49,"distance":0.3471849262714386,"type":"image"}},"labels":{"F2":"No Stance"}}
+{"id":"1410836394570780675","clip_candidates":{"F107":{"rank":51,"distance":0.36438703536987305,"type":"image"}},"labels":{"F107":"No Stance"}}
+{"id":"1337190599775105028","clip_candidates":{"F7":{"rank":39,"distance":0.908108115196228,"type":"text"},"F93":{"rank":26,"distance":0.9196226596832275,"type":"text"}},"labels":{"F7":"No Stance","F93":"Not Relevant"}}
+{"id":"1474215519742009348","clip_candidates":{"F92":{"rank":22,"distance":0.8914089798927307,"type":"text"}},"labels":{"F92":"No Stance"}}
+{"id":"1418471223298822146","clip_candidates":{"F76":{"rank":5,"distance":0.39562299847602844,"type":"image"},"F77":{"rank":53,"distance":0.37529847025871277,"type":"image"},"F80":{"rank":31,"distance":0.37457478046417236,"type":"image"}},"labels":{"F76":"Accept","F77":"Accept","F80":"No Stance"}}
+{"id":"1475124804403576837","clip_candidates":{"F11":{"rank":21,"distance":0.3697512745857239,"type":"image"},"F14":{"rank":37,"distance":0.3698275089263916,"type":"image"},"F27":{"rank":6,"distance":0.37539464235305786,"type":"image"},"F39":{"rank":24,"distance":0.3600621819496155,"type":"image"},"F86":{"rank":35,"distance":0.3831019401550293,"type":"image"},"F104":{"rank":27,"distance":0.36542049050331116,"type":"image"},"F110":{"rank":39,"distance":0.36554551124572754,"type":"image"},"F111":{"rank":16,"distance":0.36811479926109314,"type":"image"}},"labels":{"F11":"Accept","F14":"Not Relevant","F27":"Reject","F39":"Not Relevant","F86":"Not Relevant","F104":"Not Relevant","F110":"Not Relevant","F111":"Not Relevant"}}
+{"id":"1467810819601805314","clip_candidates":{"F53":{"rank":45,"distance":0.9297028183937073,"type":"text"}},"labels":{"F53":"No Stance"}}
+{"id":"1466143921541550085","clip_candidates":{"F13":{"rank":40,"distance":0.9090270400047302,"type":"text"},"F23":{"rank":38,"distance":0.942891538143158,"type":"text"}},"labels":{"F13":"Reject","F23":"Reject"}}
+{"id":"1438241007611482113","clip_candidates":{"F50":{"rank":3,"distance":0.37327128648757935,"type":"image"}},"labels":{"F50":"Reject"}}
+{"id":"1432810661013336064","clip_candidates":{"F43":{"rank":30,"distance":0.8883854746818542,"type":"text"}},"labels":{"F43":"No Stance"}}
+{"id":"1476714207731093505","clip_candidates":{"F68":{"rank":12,"distance":0.3365980386734009,"type":"image"}},"labels":{"F68":"Accept"}}
+{"id":"1337264455843938307","clip_candidates":{"F49":{"rank":46,"distance":0.3799878656864166,"type":"image"}},"labels":{"F49":"Not Relevant"}}
+{"id":"1262388638547091459","clip_candidates":{"F112":{"rank":34,"distance":0.9156065583229065,"type":"text"},"F113":{"rank":25,"distance":0.8981666564941406,"type":"text"}},"labels":{"F112":"No Stance","F113":"Not Relevant"}}
+{"id":"1463187390697287684","clip_candidates":{"F83":{"rank":41,"distance":0.3664640784263611,"type":"image"}},"labels":{"F83":"Accept"}}
+{"id":"1426953754541051904","clip_candidates":{"F14":{"rank":20,"distance":0.3740902245044708,"type":"image"}},"labels":{"F14":"Reject"}}
+{"id":"1456001876017565698","clip_candidates":{"F73":{"rank":19,"distance":0.3478339910507202,"type":"image"}},"labels":{"F73":"Not Relevant"}}
+{"id":"1423277272098754560","clip_candidates":{"F56":{"rank":3,"distance":0.758655846118927,"type":"text"},"F62":{"rank":28,"distance":0.8916172981262207,"type":"text"},"F64":{"rank":25,"distance":0.9076232314109802,"type":"text"}},"labels":{"F56":"Accept","F62":"No Stance","F64":"No Stance"}}
+{"id":"1283968270488555521","clip_candidates":{"F38":{"rank":34,"distance":0.9212118983268738,"type":"text"}},"labels":{"F38":"Reject"}}
+{"id":"1262682615536123904","clip_candidates":{"F21":{"rank":35,"distance":0.3846198618412018,"type":"image"}},"labels":{"F21":"No Stance"}}
+{"id":"1456939871143071749","clip_candidates":{"F5":{"rank":53,"distance":0.9289930462837219,"type":"text"}},"labels":{"F5":"No Stance"}}
+{"id":"1439951118901989385","clip_candidates":{"F9":{"rank":27,"distance":0.8738767504692078,"type":"text"},"F18":{"rank":44,"distance":0.8829345703125,"type":"text"},"F19":{"rank":5,"distance":0.9496195316314697,"type":"text"},"F23":{"rank":5,"distance":0.9528443813323975,"type":"text"},"F32":{"rank":38,"distance":0.8783159852027893,"type":"text"},"F34":{"rank":15,"distance":0.9163680672645569,"type":"text"},"F35":{"rank":12,"distance":0.8963662385940552,"type":"text"},"F36":{"rank":3,"distance":0.9225839972496033,"type":"text"},"F37":{"rank":23,"distance":0.9074891805648804,"type":"text"},"F38":{"rank":9,"distance":0.9324014782905579,"type":"text"},"F41":{"rank":22,"distance":0.9137518405914307,"type":"text"},"F44":{"rank":10,"distance":0.9456232190132141,"type":"text"},"F47":{"rank":22,"distance":0.9369295835494995,"type":"text"},"F48":{"rank":3,"distance":0.9467321634292603,"type":"text"},"F52":{"rank":50,"distance":0.9140779376029968,"type":"text"},"F53":{"rank":15,"distance":0.933875560760498,"type":"text"},"F54":{"rank":23,"distance":0.8973450660705566,"type":"text"},"F55":{"rank":18,"distance":0.9130055904388428,"type":"text"},"F56":{"rank":22,"distance":0.7489207983016968,"type":"text"},"F58":{"rank":32,"distance":0.8963659405708313,"type":"text"},"F69":{"rank":42,"distance":0.9313786029815674,"type":"text"},"F74":{"rank":16,"distance":0.9414912462234497,"type":"text"},"F82":{"rank":24,"distance":0.9006641507148743,"type":"text"},"F84":{"rank":24,"distance":0.9171349406242371,"type":"text"},"F93":{"rank":35,"distance":0.9184618592262268,"type":"text"},"F106":{"rank":12,"distance":0.9356524348258972,"type":"text"},"F112":{"rank":13,"distance":0.9187542200088501,"type":"text"},"F113":{"rank":37,"distance":0.8969467878341675,"type":"text"}},"labels":{"F9":"Reject","F18":"Reject","F19":"Accept","F23":"No Stance","F32":"No Stance","F34":"No Stance","F35":"No Stance","F36":"Not Relevant","F37":"No Stance","F38":"Not Relevant","F41":"Reject","F44":"No Stance","F47":"Not Relevant","F48":"No Stance","F52":"Accept","F53":"Accept","F54":"Reject","F55":"Not Relevant","F56":"Not Relevant","F58":"No Stance","F69":"Accept","F74":"Not Relevant","F82":"Not Relevant","F84":"No Stance","F93":"Accept","F106":"No Stance","F112":"No Stance","F113":"Not Relevant"}}
+{"id":"1327055733926502400","clip_candidates":{"F50":{"rank":17,"distance":0.9186868667602539,"type":"text"}},"labels":{"F50":"Reject"}}
+{"id":"1433893407328542727","clip_candidates":{"F21":{"rank":42,"distance":0.3840714395046234,"type":"image"},"F47":{"rank":13,"distance":0.3801334500312805,"type":"image"},"F82":{"rank":33,"distance":0.3655923306941986,"type":"image"}},"labels":{"F21":"No Stance","F47":"Not Relevant","F82":"No Stance"}}
+{"id":"1443636253954658312","clip_candidates":{"F8":{"rank":53,"distance":0.36118683218955994,"type":"image"}},"labels":{"F8":"Not Relevant"}}
+{"id":"1258432817156980736","clip_candidates":{"F55":{"rank":21,"distance":0.34765464067459106,"type":"image"}},"labels":{"F55":"Accept"}}
+{"id":"1336006898198454275","clip_candidates":{"F92":{"rank":9,"distance":0.8997644782066345,"type":"text"}},"labels":{"F92":"Reject"}}
+{"id":"1284813675052830721","clip_candidates":{"F16":{"rank":44,"distance":0.8868767023086548,"type":"text"},"F20":{"rank":49,"distance":0.8288877010345459,"type":"text"}},"labels":{"F16":"Reject","F20":"Not Relevant"}}
+{"id":"1251259364511485952","clip_candidates":{"F43":{"rank":55,"distance":0.8843075037002563,"type":"text"},"F44":{"rank":47,"distance":0.9363463521003723,"type":"text"},"F57":{"rank":30,"distance":0.8458898067474365,"type":"text"}},"labels":{"F43":"Not Relevant","F44":"Not Relevant","F57":"Not Relevant"}}
+{"id":"1420674438194941954","clip_candidates":{"F30":{"rank":35,"distance":0.3457503020763397,"type":"image"}},"labels":{"F30":"Not Relevant"}}
+{"id":"1334073716859396098","clip_candidates":{"F42":{"rank":8,"distance":0.3833022713661194,"type":"image"}},"labels":{"F42":"Not Relevant"}}
+{"id":"1259570443897405441","clip_candidates":{"F52":{"rank":54,"distance":0.3796011209487915,"type":"image"}},"labels":{"F52":"No Stance"}}
+{"id":"1454308615628730368","clip_candidates":{"F30":{"rank":1,"distance":0.9066394567489624,"type":"text"}},"labels":{"F30":"No Stance"}}
+{"id":"1283502236807704577","clip_candidates":{"F43":{"rank":29,"distance":0.3657661974430084,"type":"image"}},"labels":{"F43":"Accept"}}
+{"id":"1434619577107984385","clip_candidates":{"F77":{"rank":41,"distance":0.9254758358001709,"type":"text"}},"labels":{"F77":"Not Relevant"}}
+{"id":"1432701946478141457","clip_candidates":{"F7":{"rank":13,"distance":0.3663531243801117,"type":"image"},"F10":{"rank":29,"distance":0.36785703897476196,"type":"image"},"F19":{"rank":40,"distance":0.37904149293899536,"type":"image"},"F23":{"rank":11,"distance":0.37683025002479553,"type":"image"},"F27":{"rank":9,"distance":0.37077048420906067,"type":"image"},"F49":{"rank":6,"distance":0.39187201857566833,"type":"image"},"F67":{"rank":25,"distance":0.37649038434028625,"type":"image"},"F69":{"rank":17,"distance":0.3828311860561371,"type":"image"},"F74":{"rank":25,"distance":0.3848499655723572,"type":"image"},"F86":{"rank":27,"distance":0.38430657982826233,"type":"image"},"F90":{"rank":34,"distance":0.37215232849121094,"type":"image"},"F94":{"rank":22,"distance":0.36348551511764526,"type":"image"},"F97":{"rank":34,"distance":0.3786492645740509,"type":"image"},"F100":{"rank":43,"distance":0.3865973949432373,"type":"image"}},"labels":{"F7":"Not Relevant","F10":"Reject","F19":"Accept","F23":"Reject","F27":"Reject","F49":"Accept","F67":"No Stance","F69":"Accept","F74":"Not Relevant","F86":"Not Relevant","F90":"Accept","F94":"Not Relevant","F97":"Accept","F100":"Not Relevant"}}
+{"id":"1472273353088335872","clip_candidates":{"F23":{"rank":15,"distance":0.37652355432510376,"type":"image"}},"labels":{"F23":"No Stance"}}
+{"id":"1304099949332832257","clip_candidates":{"F28":{"rank":43,"distance":0.33783891797065735,"type":"image"}},"labels":{"F28":"Accept"}}
+{"id":"1431182480019755009","clip_candidates":{"F87":{"rank":43,"distance":0.9323223233222961,"type":"text"}},"labels":{"F87":"No Stance"}}
+{"id":"1436416806638391302","clip_candidates":{"F97":{"rank":49,"distance":0.9111595153808594,"type":"text"}},"labels":{"F97":"Not Relevant"}}
+{"id":"1300710459767689219","clip_candidates":{"F40":{"rank":2,"distance":0.37468165159225464,"type":"image"}},"labels":{"F40":"No Stance"}}
+{"id":"1428263991109849090","clip_candidates":{"F103":{"rank":57,"distance":0.3510640859603882,"type":"image"}},"labels":{"F103":"Not Relevant"}}
+{"id":"1434837986122862596","clip_candidates":{"F96":{"rank":43,"distance":0.35533085465431213,"type":"image"}},"labels":{"F96":"Accept"}}
+{"id":"1300122080529338368","clip_candidates":{"F107":{"rank":16,"distance":0.9243912100791931,"type":"text"}},"labels":{"F107":"Not Relevant"}}
+{"id":"1466795924190019589","clip_candidates":{"F23":{"rank":14,"distance":0.3765522241592407,"type":"image"},"F30":{"rank":29,"distance":0.3471520245075226,"type":"image"},"F61":{"rank":18,"distance":0.3817501962184906,"type":"image"},"F80":{"rank":41,"distance":0.37329861521720886,"type":"image"}},"labels":{"F23":"Not Relevant","F30":"Not Relevant","F61":"Not Relevant","F80":"No Stance"}}
+{"id":"1418634631100895232","clip_candidates":{"F12":{"rank":26,"distance":0.37928229570388794,"type":"image"}},"labels":{"F12":"Not Relevant"}}
+{"id":"1421515697079787525","clip_candidates":{"F92":{"rank":8,"distance":0.39000916481018066,"type":"image"}},"labels":{"F92":"Reject"}}
+{"id":"1418405623922888706","clip_candidates":{"F36":{"rank":52,"distance":0.9044169187545776,"type":"text"}},"labels":{"F36":"Reject"}}
+{"id":"1273931839367860224","clip_candidates":{"F18":{"rank":37,"distance":0.8836174011230469,"type":"text"},"F57":{"rank":41,"distance":0.8438358902931213,"type":"text"}},"labels":{"F18":"Not Relevant","F57":"Not Relevant"}}
+{"id":"1278586009618268160","clip_candidates":{"F36":{"rank":33,"distance":0.3744198679924011,"type":"image"},"F37":{"rank":5,"distance":0.3730630576610565,"type":"image"}},"labels":{"F36":"Not Relevant","F37":"Accept"}}
+{"id":"1446341192539467780","clip_candidates":{"F4":{"rank":21,"distance":0.9193595051765442,"type":"text"}},"labels":{"F4":"Accept"}}
+{"id":"1452239560293945350","clip_candidates":{"F77":{"rank":54,"distance":0.9247416853904724,"type":"text"}},"labels":{"F77":"Reject"}}
+{"id":"1436105073919094795","clip_candidates":{"F71":{"rank":6,"distance":0.3923976719379425,"type":"image"},"F74":{"rank":43,"distance":0.3824676275253296,"type":"image"}},"labels":{"F71":"Accept","F74":"No Stance"}}
+{"id":"1435722237605199874","clip_candidates":{"F83":{"rank":28,"distance":0.36823365092277527,"type":"image"}},"labels":{"F83":"No Stance"}}
+{"id":"1324628735052648448","clip_candidates":{"F6":{"rank":42,"distance":0.36872267723083496,"type":"image"},"F36":{"rank":22,"distance":0.9091669917106628,"type":"text"},"F53":{"rank":51,"distance":0.9294823408126831,"type":"text"}},"labels":{"F6":"Not Relevant","F36":"Not Relevant","F53":"Not Relevant"}}
+{"id":"1282516464860164096","clip_candidates":{"F105":{"rank":12,"distance":0.36582401394844055,"type":"image"}},"labels":{"F105":"No Stance"}}
+{"id":"1438321958400053250","clip_candidates":{"F102":{"rank":9,"distance":0.3753892481327057,"type":"image"}},"labels":{"F102":"Accept"}}
+{"id":"1426120111191207936","clip_candidates":{"F52":{"rank":20,"distance":0.386484295129776,"type":"image"}},"labels":{"F52":"Accept"}}
+{"id":"1435738293426180099","clip_candidates":{"F81":{"rank":48,"distance":0.37755587697029114,"type":"image"},"F85":{"rank":42,"distance":0.37912288308143616,"type":"image"}},"labels":{"F81":"Not Relevant","F85":"Not Relevant"}}
+{"id":"1440669328391622657","clip_candidates":{"F88":{"rank":39,"distance":0.3651394546031952,"type":"image"}},"labels":{"F88":"No Stance"}}
+{"id":"1452024086578749441","clip_candidates":{"F6":{"rank":5,"distance":0.9170554280281067,"type":"text"}},"labels":{"F6":"No Stance"}}
+{"id":"1457717942054002695","clip_candidates":{"F84":{"rank":39,"distance":0.3772521913051605,"type":"image"},"F88":{"rank":5,"distance":0.380901575088501,"type":"image"}},"labels":{"F84":"No Stance","F88":"No Stance"}}
+{"id":"1329220576611807239","clip_candidates":{"F100":{"rank":32,"distance":0.38814130425453186,"type":"image"}},"labels":{"F100":"No Stance"}}

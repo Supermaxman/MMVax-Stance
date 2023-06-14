@@ -1,0 +1,49 @@
+seed_everything: 0
+model:
+  class_path: modeling.models.MultiClassFrameImageClipJointModel
+  init_args:
+    learning_rate: 3e-5
+    lr_warm_up: 0.0
+    pre_model_name: openai/clip-vit-large-patch14
+    
+    label_map:
+      No_Stance: 0
+      Accept: 1
+      Reject: 2
+    threshold:
+      class_path: modeling.thresholds.MultiClassThresholdModule
+    metric:
+      class_path: modeling.metrics.F1PRMultiClassMetric
+      init_args:
+        mode: macro
+        num_classes: 3
+
+trainer:
+  max_epochs: 10
+  accumulate_grad_batches: 8
+  check_val_every_n_epoch: 2
+  deterministic: true
+  num_sanity_val_steps: 1
+  accelerator: gpu
+  devices: 1
+  default_root_dir: checkpoints/clip-joint-v1
+  enable_checkpointing: false
+  callbacks:
+    - class_path: callbacks.FitCheckpointCallback
+data:
+  class_path: data.datasets.MultiClassFrameImageDataModule
+  init_args:
+    batch_size: 4
+    max_seq_len: 77
+    label_name: labels
+    label_map:
+      No_Stance: 0
+      Accept: 1
+      Reject: 2
+    processor_name: openai/clip-vit-large-patch14
+    num_workers: 8
+    skip_unknown_labels: true
+    frame_path: annotations/frames.json
+    train_path: annotations/train.jsonl
+    val_path: annotations/dev.jsonl
+    test_path: annotations/test.jsonl
